@@ -1,0 +1,42 @@
+site_name: LA Metro Digital Services Team Docs
+repo_url: https://github.com/albertkun/digital-design-system-docs
+
+theme: 
+  font:
+    text: Open Sans
+  favicon: media/favicon.png
+  logo: media/favicon-reverse.png
+  palette:
+    primary: black
+  name: material
+  custom_dir: overrides
+  features:
+      - navigation.instant
+      - content.code.annotate
+  icon:
+    repo: fontawesome/brands/github
+markdown_extensions:
+    # - pymdownx.highlight:
+    #     linenums: true
+    - pymdownx.superfences
+    - smarty
+    - toc:
+        permalink: True
+        toc_depth: 3
+    - sane_lists
+    - admonition
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - javascripts/tables.js
+
+edit_uri: edit/main/docs/
+plugins:
+  - git-revision-date
+  - encryptcontent:
+      global_password: !ENV METRO_DOCS_PASS
+      tag_encrypted_page: True
+      password_button: True      
+      encrypted_something:
+          mkdocs-encrypted-toc: [nav, class]
+          mkdocs-encrypted-footer: [div, id]
+          mkdocs-encrypted-footer-meta: [div, id]
