@@ -15,15 +15,13 @@ on:
   workflow_dispatch:
           
 jobs:
-  nightly-merge:
-
+  merge:
     runs-on: ubuntu-latest
-
     steps:
     - name: Checkout
       uses: actions/checkout@v1
 
-    - name: Nightly Merge
+    - name: Merge
       uses: robotology/gh-action-nightly-merge@v1.3.1
       with:
         stable_branch: 'dev'
@@ -32,3 +30,26 @@ jobs:
         allow_forks: true
       env:
         GITHUB_TOKEN: ${{ secrets.NINA_KEY }}
+    
+    #- name: Checkout Action
+    #  uses: actions/checkout@v2
+    - name: Setup Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.x
+      env:
+        METRO_DOCS_PASS: ${{ secrets.METRO_DOCS_PASS }}
+    
+    - name: Install mkdocs-material
+      run: pip install mkdocs-material
+    
+    - name: Install content encryption plugin
+      run: pip install mkdocs-encryptcontent-plugin
+    
+    - name: Install revision date plugin
+      run: pip install mkdocs-git-revision-date-plugin
+    
+    - name: Deploy
+      run: mkdocs gh-deploy --force
+      env:
+        METRO_DOCS_PASS: ${{secrets.METRO_DOCS_PASS}}
