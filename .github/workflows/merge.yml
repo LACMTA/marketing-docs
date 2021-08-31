@@ -1,0 +1,30 @@
+# This is a basic workflow to help you get started with Actions
+
+name: pull from dev to main
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the dev branch
+#   push:
+#     branches: [ dev ]
+  pull_request:
+    branches: [ dev ]
+    types: [closed]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+
+jobs:
+  merge-branch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+
+      - name: Merge staging -> main
+        uses: devmasx/merge-branch@v1.4.0
+        with:
+          type: now
+          target_branch: main
+          github_token: ${{ github.token }}
+          
