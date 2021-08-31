@@ -28,7 +28,8 @@ git clone https://github.com/albertkun/digital-design-system-docs.git
 ```
 
 
-
+## Automation
+Git Action workflow works!
 ## Categories
 
 * Web Properties
