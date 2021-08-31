@@ -1,9 +1,5 @@
 # Welcome to LA Metro Digital Services Team Docs
 
-Now with more security!
-[Troubleshooting](troubleshooting.md)
-[GTFS](projects/gtfs.md)
-
 This repository is an internal resource for the Digital Services Team at Metro.
 
 Documentation either does not exist, is outdated, exists on old platforms, or exists across multiple platforms used by different people.  There is a need to centralize and keep documentation up-to-date for the entire team to use and reference.
