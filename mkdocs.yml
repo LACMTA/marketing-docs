@@ -33,7 +33,7 @@ edit_uri: edit/main/docs/
 plugins:
   - git-revision-date
   - encryptcontent:
-      global_password: !ENV METRO_DOCS_PASS
+      # global_password: !ENV METRO_DOCS_PASS
       tag_encrypted_page: True
       password_button: True      
       encrypted_something:
