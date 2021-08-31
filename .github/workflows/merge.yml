@@ -31,25 +31,18 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.NINA_KEY }}
     
-    - name: Checkout v2
-      uses: actions/checkout@v2
-    - name: Setup Python
+    - name: mkdocs build  
       uses: actions/setup-python@v2
       with:
         python-version: 3.x
       env:
         METRO_DOCS_PASS: ${{ secrets.METRO_DOCS_PASS }}
     
-    - name: Install mkdocs-material
-      run: pip install mkdocs-material
+    - run: pip install mkdocs-material
+    - run: pip install mkdocs-encryptcontent-plugin
+    - run: pip install mkdocs-git-revision-date-plugin
     
-    - name: Install content encryption plugin
-      run: pip install mkdocs-encryptcontent-plugin
-    
-    - name: Install revision date plugin
-      run: pip install mkdocs-git-revision-date-plugin
-    
-    - name: Deploy
-      run: mkdocs gh-deploy --force
+    - uses: actions/checkout@v2
+    - run: mkdocs gh-deploy --force
       env:
         METRO_DOCS_PASS: ${{secrets.METRO_DOCS_PASS}}
