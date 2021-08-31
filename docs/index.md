@@ -29,8 +29,7 @@ git clone https://github.com/albertkun/digital-design-system-docs.git
 
 
 ## Automation
-Git Action workflow works!
-Try again!
+Git Action workflow works! We automate the build into the production after successful Pull Requests on the development branch.
 ## Categories
 
 * Web Properties
