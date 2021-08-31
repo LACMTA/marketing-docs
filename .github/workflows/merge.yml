@@ -42,7 +42,7 @@ jobs:
     - run: pip install mkdocs-encryptcontent-plugin
     - run: pip install mkdocs-git-revision-date-plugin
     
-    - uses: actions/checkout@v2
+    #- uses: actions/checkout@v2
     - run: mkdocs gh-deploy --force
       env:
         METRO_DOCS_PASS: ${{secrets.METRO_DOCS_PASS}}
