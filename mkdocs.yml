@@ -1,5 +1,5 @@
 site_name: LA Metro Digital Services Team Docs
-repo_url: https://github.com/LACMTA/digital-services-team-docs
+repo_url: https://github.com/albertkun/digital-design-system-docs
 
 theme: 
   font:
@@ -13,6 +13,7 @@ theme:
   features:
       - navigation.instant
       - content.code.annotate
+      - search.highlight
   icon:
     repo: fontawesome/brands/github
 markdown_extensions:
@@ -28,14 +29,21 @@ markdown_extensions:
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
   - javascripts/tables.js
+  - javascripts/extra.js
+extra_css:
+  - stylesheets/extra.css
 
 edit_uri: edit/main/docs/
 plugins:
+  - search:
+      lang: en
   - git-revision-date
+  # - htmlproofer
+      # raise_error: True
   - encryptcontent:
+      title_prefix: '🔒'
       # global_password: !ENV METRO_DOCS_PASS
-      tag_encrypted_page: True
-      password_button: True      
+      # password_button: True      
       encrypted_something:
           mkdocs-encrypted-toc: [nav, class]
           mkdocs-encrypted-footer: [div, id]

@@ -1,5 +1,4 @@
-# This is a basic workflow to help you get started with Actions
-name: build mkdocs pages on push to main 
+name: ci 
 on:
   push:
     branches: 
@@ -20,4 +19,3 @@ jobs:
       - run: mkdocs gh-deploy --force
         env:
           METRO_DOCS_PASS: ${{secrets.METRO_DOCS_PASS}}
-
