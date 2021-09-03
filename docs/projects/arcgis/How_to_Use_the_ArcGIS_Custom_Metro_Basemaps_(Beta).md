@@ -14,7 +14,7 @@ Metro’s ArcGIS Online environment includes shared update groups for individual
 **USE CASES**
 The process for using the custom basemap will vary depending on the format of your final deliverable. Please follow instructions below based on the planned use for the map that you are developing. In some cases, you will have multiple uses and will need to follow both workflows for using this map.
 ****
-# Online Maps
+## Online Maps
 
 For online maps, select the custom Metro basemaps in the “Custom Basemaps” Gallery. There are two versions:
 
@@ -26,12 +26,12 @@ For online maps, select the custom Metro basemaps in the “Custom Basemaps” G
 
 
 
-# PDF/Printed/Detailed Maps
+## PDF/Printed/Detailed Maps
 
 For maps appearing as PDFs, in print or that include more details and need to preserve vector resolution, please follow installation instructions below for use with ArcGIS Pro.
 
 
-## 1. Instructions to Use the Basemap
+### 1. Instructions to Use the Basemap
 
 **Step 1.1. Install correct fonts**
 We are currently unable to distribute our Brand Typefaces, Information Design and Microsoft Office fonts to outside partners due to licensing restrictions.
@@ -68,7 +68,7 @@ For public-facing maps, please work with Marketing to review deliverables to fin
 
 **If** **your map requires** **the** **Metro Design Studio to assist with specialized styling needed to finalize it for a public-facing use, follow these instructions:**  ****
 
-## 2. Instructions to Export to Illustrator
+### 2. Instructions to Export to Illustrator
 
 **From ArcGIS Pro**
 From ArcGIS Pro, export an Illustrator compatible **.aix** file:
@@ -100,7 +100,7 @@ Note: maps can also be exported as a PDF.
 ----------
 
 
-## 3. Instructions to Use in Illustrator
+### 3. Instructions to Use in Illustrator
 
 **Step 1. Install the ArcGIS Maps for Adobe Creative Cloud Extension**
 https://www.esri.com/en-us/arcgis/products/maps-for-adobecc/overview
@@ -114,21 +114,21 @@ https://www.esri.com/en-us/arcgis/products/maps-for-adobecc/overview
 
 
 
-# Next Steps
+## Next Steps
 
 This custom basemap is in beta, and we welcome your feedback. We’re also hoping to record trainings after more testing and feedback.
 
-## Provide your feedback! 
+### Provide your feedback! 
 
 See something that could work better here? Or want to tell us about your experience using this map? Provide comments here: [+ArcGIS Custom Basemap — Beta User Comments](https://paper.dropbox.com/doc/ArcGIS-Custom-Basemap-Beta-User-Comments-bGqZEBJDUpehFGonN0h45) 
 
 [ ] DCR has logged a known bug BUG-000140155 with Esri, on some names not showing up for small curved streets in Illustrator
 [ ] DCR may log another bug for corrupted font symbols…. (testing for replication to determine need for bug log)
-## Add Observed Edits
+### Add Observed Edits
 
 See something on the map that’s not correct? Please add notes to this log for future updates: [+ArcGIS Custom Metro Basemap – Edits Log](https://paper.dropbox.com/doc/ArcGIS-Custom-Metro-Basemap-Edits-Log-sdMzVAgnRPZd4RZkKrTSD) 
 
-## Other Versions in Development
+### Other Versions in Development
 
 Metro is interested in building on this base map to further improve efficiency in creating public-facing maps. If you have ideas beyond those listed below, please add to the [+ArcGIS Custom Basemap — Beta User Comments](https://paper.dropbox.com/doc/ArcGIS-Custom-Basemap-Beta-User-Comments-bGqZEBJDUpehFGonN0h45) 
 
@@ -140,16 +140,16 @@ Metro is interested in building on this base map to further improve efficiency i
 ----------
 
 
-# Other References
+## Other References
 
 
-## For CMYK maps in ArcGIS Pro
+### For CMYK maps in ArcGIS Pro
 - Enable Project> Options> Color Management to change the display of colors. The default settings and it seems to improve the representation of CMYK.
 ![](https://paper-attachments.dropbox.com/s_AEC04767EAD9A01D3D25F2F6D40F733D073A137777BD46ACBF276FCBBF5B6750_1624056266917_color_mgmt.png)
 
 
 
-## ArcGIS Pro
+### ArcGIS Pro
 
 **Local Environment**
 For setting up a local environment for ArcGIS Pro, this folder contains the necessary data and files: [https://drive.google.com/drive/folders/1lOuGFhkv2O6AQBpGKVj7MCkb-nDQ5be9?usp=sharing](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1lOuGFhkv2O6AQBpGKVj7MCkb-nDQ5be9%3Fusp%3Dsharing&data=04%7C01%7CHuangTi%40metro.net%7C50f060b8933f4ff25efc08d921fb96a9%7Cab57129bdbfd4cacaa77fc74c40364af%7C0%7C0%7C637578186742146337%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=fbYVsz0t81eZ2UFXx6uui4UZFchAu41P92MmXZ9WV9k%3D&reserved=0)
@@ -158,7 +158,7 @@ For setting up a local environment for ArcGIS Pro, this folder contains the nece
 
 
 
-## Other Reference Maps
+### Other Reference Maps
 
 **Former Draft Vector Basemap:**
 (For online maps)
@@ -170,7 +170,7 @@ For setting up a local environment for ArcGIS Pro, this folder contains the nece
 
 
 
-## Styling
+### Styling
 
 **Project Styling Notes**
 [+ArcGIS Map Styling – Projects](https://paper.dropbox.com/doc/ArcGIS-Map-Styling-Projects-kRhsM17SNSh8pduhk1dio) 
