@@ -30,7 +30,7 @@ The documentation is loosely tied on the following structure:
 
 Contributions to documentation is mainly provided from LA Metro staff and follows this workflow:
 
-![MetroDocumentationWorkFlow.png](MetroDocumentationWorkFlow.png)
+![MetroDocumentationWorkFlow.png](./media/MetroDocumentationWorkFlow.png)
 
 1. Create documentation in either `*.docx` or `*.md` formats.
    - If using `*.docx` convert to the `*.md` format using [online converter](https://word2md.com/).
