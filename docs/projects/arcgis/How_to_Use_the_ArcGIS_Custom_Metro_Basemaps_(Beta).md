@@ -37,7 +37,7 @@ For maps appearing as PDFs, in print or that include more details and need to pr
 We are currently unable to distribute our Brand Typefaces, Information Design and Microsoft Office fonts to outside partners due to licensing restrictions.
 [https://brand.metro.net/frequently-asked-questions/](https://brand.metro.net/frequently-asked-questions/)
 
-****You must have the following fonts installed in order for them to display properly on the basemap. [https://brand.metro.net/downloads/](https://brand.metro.net/downloads/) (password: M3troBr@nd)
+****You must have the following fonts installed in order for them to display properly on the basemap. [https://brand.metro.net/downloads/](https://brand.metro.net/downloads/) (password: email [Tiffany Huang][tiffany-huang])
 
 Font List:
 
