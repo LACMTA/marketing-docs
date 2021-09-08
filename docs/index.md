@@ -1,6 +1,6 @@
-# Welcome to LA Metro Digital Services Team Docs
+# Welcome to the LA Metro Digital Services Team Docs Demo
 
-This repository is an internal resource for the Digital Services Team at Metro.
+This documentation is a resource for the Digital Services Team at Metro that can be utilized for collaboration throughout the Marketing department.
 
 Documentation either does not exist, is outdated, exists on old platforms, or exists across multiple platforms used by different people.  There is a need to centralize and keep documentation up-to-date for the entire team to use and reference.
 
@@ -12,7 +12,8 @@ The documentation is loosely tied on the following structure:
 
 #### Projects
 
-A project within Marketing is defined as ...
+<!-- to-do: need to flush out the categories -->
+A project within Marketing is defined as ... 
 
 - GTFS Static
 - GTFS RT
