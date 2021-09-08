@@ -11,7 +11,8 @@ The documentation is loosely tied on the following structure:
 ### Categories
 
 #### Projects
-
+!!! warning
+    Let's work on this 9/8
 <!-- to-do: need to flush out the categories -->
 A project within Marketing is defined as ... 
 
