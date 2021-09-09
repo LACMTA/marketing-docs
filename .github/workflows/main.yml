@@ -17,6 +17,8 @@ jobs:
       - run: pip install mkdocs-encryptcontent-plugin
       - run: pip install mkdocs-git-revision-date-plugin
       - run: pip install mkdocs-autorefs
+      - run: pip install mkdocs-macros-plugin     
+      - run: pip install mkdocs-table-reader-plugin     
       - run: mkdocs gh-deploy --force
         env:
           METRO_DOCS_PASS: ${{secrets.METRO_DOCS_PASS}}

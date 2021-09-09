@@ -1,5 +1,5 @@
 site_name: LA Metro Digital Services Team Docs
-repo_url: https://github.com/albertkun/digital-design-system-docs
+repo_url: https://github.com/LACMTA/digital-services-team-docs/
 
 theme: 
   font:
@@ -12,22 +12,31 @@ theme:
   custom_dir: overrides
   features:
       - navigation.instant
+      - navigation.tabs
       - content.code.annotate
       - search.highlight
+      - toc.integrate
+      - navigation.indexes
+      - navigation.top
+      
   icon:
     repo: fontawesome/brands/github
+
 markdown_extensions:
     # - pymdownx.highlight:
     #     linenums: true
     - pymdownx.superfences
     - pymdownx.magiclink
     - smarty
+    - meta
     - toc:
         permalink: True
-        toc_depth: 3
+        toc_depth: 2
     - sane_lists
     - admonition
     - footnotes
+    - attr_list
+    
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
   - javascripts/tables.js
@@ -37,10 +46,12 @@ extra_css:
 
 edit_uri: edit/main/docs/
 plugins:
+  - git-revision-date
   - autorefs
+  - table-reader
+  - macros
   - search:
       lang: en
-  - git-revision-date
   # - htmlproofer
       # raise_error: True
   - encryptcontent:

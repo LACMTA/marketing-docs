@@ -1,4 +1,4 @@
-# People
+# Contacts
 
 ## Nina Kin
 
