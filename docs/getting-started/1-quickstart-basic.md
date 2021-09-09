@@ -9,9 +9,11 @@
     - Add content directly
 
 
-## Setup
+## Requirements
 
-- [Create a GitHub account](https://github.com/){target=_blank}
+- [Have a GitHub account](https://github.com/){target=_blank}
+
+## Adding new pages
 
 ## Option 1 - Edit in GitHub
 
