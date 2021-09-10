@@ -15,7 +15,17 @@
 
 ## Adding new pages
 
-## Option 1 - Edit in GitHub
+`.docx` files from Google Docs, Dropbox Paper, or Microsoft Word, can be exported into the `.md` Markdown format.
+
+Go to the [Digital Services Team Docs](https://github.com/LACMTA/digital-services-team-docs.git){target=_blank} repository on GitHub.
+
+Click on the `docs/` folder and navigate to the folder you want to put your file.
+
+Click the `Add File` dropdown and select `Upload File`.
+
+## Editing an existing page
+
+If a relevant page already exists you can edit the page.
 
 Go to the [Digital Services Team Docs](https://github.com/LACMTA/digital-services-team-docs.git){target=_blank} repository on GitHub.
 
@@ -36,13 +46,3 @@ Create a link using the following Markdown syntax:
 ```
 
 Save by clicking the `Commit` button.
-
-## Option 2 - Import Pages
-
-`.docx` files from Google Docs, Dropbox Paper, or Microsoft Word, can be exported into the `.md` Markdown format.
-
-Go to the [Digital Services Team Docs](https://github.com/LACMTA/digital-services-team-docs.git) repository on GitHub.
-
-Click on the `docs/` folder and navigate to the folder you want to put your file.
-
-Click the `Add File` dropdown and select `Upload File`.
