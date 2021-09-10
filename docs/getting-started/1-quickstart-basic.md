@@ -1,5 +1,7 @@
 # Quick Start - Basic
 
+Here is the link to the slides for the [workshop](/media/workshop9_10_21.pdf).
+
 To begin, visit the GitHub repository for the documentation here:
 
  - [https://github.com/LACMTA/digital-services-team-docs/](https://github.com/LACMTA/digital-services-team-docs/){target=_blank}
