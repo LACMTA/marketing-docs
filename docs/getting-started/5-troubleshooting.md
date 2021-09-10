@@ -1,10 +1,17 @@
 # Troubleshooting
 
+## General
+
+### Q: Why are my changes not being reflected on the page?
+
+#### A: You need to make sure you create a Pull Request.
+
 ## Markdown
 
 ### Q: Why are my bulleted lists not being formatted?
 
 > **Code:**
+
 > ``` markdown
 > These dependences are used for generating the front-end website.
 > - Bootstrap - 5.0.0
