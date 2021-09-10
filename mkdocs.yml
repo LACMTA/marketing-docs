@@ -1,13 +1,24 @@
 site_name: LA Metro Digital Services Team Docs
 repo_url: https://github.com/LACMTA/digital-services-team-docs/
 
-theme: 
+theme:
+  palette:
+
+    - scheme: default
+      primary: black
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      accent: white
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode  
   font:
     text: Open Sans
   favicon: media/favicon.png
   logo: media/favicon-reverse.png
-  palette:
-    primary: black
   name: material
   custom_dir: overrides
   features:
