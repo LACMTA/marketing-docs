@@ -2,8 +2,8 @@
 
 ## Nina Kin
 
-Hi
-
+- GitHub account: [@matikin9](https://github.com/matikin9)
 ## Albert Kochaphum
 
-hello
+- GitHub account: [@albertkun](https://github.com/albertkun)
+- Email: kochaphuma@metro.net
