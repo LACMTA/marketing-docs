@@ -55,7 +55,7 @@ extra_javascript:
 extra_css:
   - stylesheets/extra.css
 
-edit_uri: edit/main/docs/
+edit_uri: edit/dev/docs/
 plugins:
   - git-revision-date
   - autorefs
