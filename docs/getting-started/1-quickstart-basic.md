@@ -4,12 +4,12 @@ Here is the link to the slides for the [workshop](./media/workshop9_10_21.pdf).
 
 To begin, visit the GitHub repository for the documentation here:
 
- - [https://github.com/LACMTA/digital-services-team-docs/](https://github.com/LACMTA/digital-services-team-docs/){target=_blank}
+ - [https://github.com/LACMTA/digital-services-team-docs/](https://github.com/LACMTA/digital-services-team-docs/tree/dev){target=_blank}
 
-Make sure you are on the `dev` branch or your own branch.
+Most changes should be made onto the `dev` branch or your own branch.
 
 !!! note
-    If you do not have access to the repository, you can request access from [Nina][nina-kin]. Otherwise you will end up forking the repository and will need to make a [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) from your own repository. Learn more about forking here:
+    If you do not have access to the repository, you can request access from [Albert][albert-kochaphum] or [Nina][nina-kin]. Otherwise you will end up forking the repository and will need to make a [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) from your own repository. Learn more about forking here:
     https://guides.github.com/activities/forking/.
 
 ## Requirements
@@ -20,8 +20,8 @@ Make sure you are on the `dev` branch or your own branch.
 
 Categorize your information as one of the following:
 
-- **Project** - Any organizational method or process
 - **Process** - Anything with defined goals, deliverables, or timelines
+- **Project** - Any organizational method or process
 - **Software** - Internal and external software and resources
 
 Find a suitable location for your new page within the `docs` folder on the [GitHub Documentation repository](https://github.com/LACMTA/digital-services-team-docs/){target=_blank}.
@@ -36,42 +36,48 @@ If your source documentation is complete, import the content.
 
 `.docx` files from Google Docs, Dropbox Paper, or Microsoft Word, can be exported into the `.md` Markdown format and then imported into the documentation site.
 
-Go to the [Digital Services Team Docs](https://github.com/LACMTA/digital-services-team-docs.git){target=_blank} repository on GitHub.
+1. Go to the [Digital Services Team Docs](https://github.com/LACMTA/digital-services-team-docs.git){target=_blank} repository on GitHub.
 
-Click on the `docs` folder and navigate to the folder you want to put your file.
+2. Click on the `docs` folder and navigate to the folder you want to put your file.
 
-Click the `Add File` dropdown, select `Upload files`, and select your `.md` file.
+3. Click the `Add File` dropdown, select `Upload files`, and select your `.md` file.
 
 ### Creating a File on GitHub
 
 You can use the GitHub interface to create a new file and add content through the web editor.
 
-Go to the [Digital Services Team Docs](https://github.com/LACMTA/digital-services-team-docs.git){target=_blank} repository on GitHub.
+1. Go to the [Digital Services Team Docs](https://github.com/LACMTA/digital-services-team-docs.git){target=_blank} repository on GitHub.
 
-Click on the `docs` folder and navigate to the folder you want to create a file in.
+2. Click on the `docs` folder and navigate to the folder you want to create a file in.
 
-Click the `Add File` dropdown and select `Create new file`.
+3. Click the `Add File` dropdown and select `Create new file`.
 
-The editor will appear in the page:
+4. The editor will appear in the page:
 
-![GitHub editor](./media/github-editor.jpg)
+    ![GitHub editor](./media/github-editor.jpg)
 
-Give your new file a name (make sure it it ends in `.md`) and use the editor to enter the content.
+5. Give your new file a name (make sure it it ends in `.md`) and use the editor to enter the content.
 
-Save by clicking the green button that will appear as `Propose changes` or `Commit changes`.
+6. Save by clicking the green button that will appear as `Propose changes` or `Commit changes`.
 
 ## Editing a page in GitHub
 
-Go to the [Digital Services Team Docs](https://github.com/LACMTA/digital-services-team-docs.git){target=_blank} repository on GitHub.
+Using [Markdown](https://guides.github.com/features/mastering-markdown/#what){target=_blank}, you can use the GitHub interface to edit an existing page the web editor.
 
-Click on the `docs` folder and navigate to the file you want to update.
+1. Go to the [Digital Services Team Docs](https://github.com/LACMTA/digital-services-team-docs.git){target=_blank} repository on GitHub.
 
-Click the pencil icon in the upper right corner of the document to edit the file:
+2. Click on the `docs` folder and navigate to the file you want to update.
 
-![edit icon on GitHub](./media/github-edit-icon.jpg)
+3. Click the pencil icon in the upper right corner of the document to edit the file:
 
-The editor will appear in the page:
+    ![edit icon on GitHub](./media/github-edit-icon.jpg)
 
-![GitHub editor](./media/github-editor.jpg)
+4. The editor will appear in the page:
 
-Save by clicking the green button that will appear as `Propose changes` or `Commit changes`.
+    ![GitHub editor](./media/github-editor.jpg)
+
+5. Save by clicking the green button that will appear as `Propose changes` or `Commit changes`.
+
+Now is a good time to review the [contribution guidelines](quick-start-advanced.md).
+
+If you are feeling adventurous, check out the [advanced quick start guide][quick-start-advanced] on the following page.
