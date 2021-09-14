@@ -31,4 +31,4 @@ jobs:
         allow_ff: false
         allow_forks: true
       env:
-        GITHUB_TOKEN: ${{ secrets.NINA_KEY }}
+        GITHUB_TOKEN: ${{ secrets.METRO_KEY }}
