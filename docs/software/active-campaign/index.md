@@ -8,5 +8,5 @@
 - learn
 
 ## create your first campaign
- - click on... 
+ [Active Campaign campaign page](Metro77073.activehosted.com/campaigns)
 
