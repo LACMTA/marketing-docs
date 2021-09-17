@@ -1,9 +1,7 @@
 # Processes Overview
 
-Shakeups
+- Shakeups
+- Construction
+- Special Events
+- WordPress
 
-Construction
-
-Special Events
-
-...
