@@ -17,8 +17,8 @@ theme:
         name: Switch to light mode  
   font:
     text: Open Sans
-  favicon: media/favicon.png
-  logo: media/favicon-reverse.png
+  favicon: dev/media/favicon.png
+  logo: dev/media/favicon-reverse.png
   name: material
   custom_dir: overrides
   features:
@@ -50,10 +50,10 @@ markdown_extensions:
     
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
-  - javascripts/tables.js
-  - javascripts/extra.js
+  - /dev/javascripts/tables.js
+  - /dev/javascripts/extra.js
 extra_css:
-  - stylesheets/extra.css
+  - /dev/stylesheets/extra.css
 
 edit_uri: edit/dev/docs/
 plugins:
