@@ -1,3 +1,8 @@
+---
+tags:
+  - draft
+---
+
 # Automated Weekly Updates
 
 ## Overview
