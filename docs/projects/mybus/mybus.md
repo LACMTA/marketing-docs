@@ -1,3 +1,9 @@
+---
+tags:
+  - external
+  
+---
+
 # MyBus
 
 > This tool is meant to communicate upcoming service changes to LA Metro riders in a way that answers the question "How is my bus changing?" This tool was created to pull together data from different LA Metro departments in order to communicate bus rider service changes to riders.
