@@ -13,7 +13,8 @@ jobs:
           python-version: 3.x
         env:
           METRO_DOCS_PASS: ${{ secrets.METRO_DOCS_PASS }}
-      - run: pip install mkdocs-material
+      - run: pip install git+https://${ALBERT_KEY}@github.com/squidfunk/mkdocs-material-insiders.git    
+      # - run: pip install mkdocs-material
       - run: pip install mkdocs-encryptcontent-plugin
       - run: pip install mkdocs-git-revision-date-plugin
       - run: pip install mkdocs-autorefs
@@ -22,3 +23,4 @@ jobs:
       - run: mkdocs gh-deploy --force
         env:
           METRO_DOCS_PASS: ${{secrets.METRO_DOCS_PASS}}
+          ALBERT_KEY: ${{secrets.ALBERT_KEY}}

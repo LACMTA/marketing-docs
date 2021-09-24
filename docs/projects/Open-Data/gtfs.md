@@ -3,29 +3,20 @@ tags:
 ---
 
 # GTFS Static
+
 ## Overview
 
-LA Metro's GTFS data feeds are separated into *Bus* and *Rail*. They
-were separated in 2016 to allow for more regular file updates.
+LA Metro's General Transit Feed Specfications (GTFS) data feeds are separated into *Bus* and *Rail*. They were separated in 2016 to allow for more regular file updates.
 
-Both sets of files are publicly accessible on the LACMTA GitLab account.
-They were moved from GitHub to GitLab in 2016 because of the 100MB file
-size limit in GitHub.
+Both sets of files are publicly accessible on the LACMTA GitLab account. They were moved from GitHub to GitLab in 2016 because of the 100MB file size limit in GitHub.
 
-Service schedules go through a "shakeup" roughly twice a year in June
-and December. Schedules are adjusted to accommodate ridership demands
-and improve connections between Metro Bus, Metro Rail, and other transit
-services in the region.
+Service schedules go through a "shakeup" roughly twice a year in June and December. Schedules are adjusted to accommodate ridership demands and improve connections between Metro Bus, Metro Rail, and other transit services in the region.
 
-The files hosted on GitLab are used by the Metro Trip Planner as well as
-many third parties that rely on the data to power their transit trip
-planning sites and apps.
+The files hosted on GitLab are used by the Metro Trip Planner as well as many third parties that rely on the data to power their transit trip planning sites and apps.
 
 ### Graph Update
 
-OpenTripPlanner builds a Graph.obj using a list of GTFS files defined in
-a Chef cookbook. That cookbook is scheduled to run daily and it will
-pull the GTFS files from Metro's GitLab repository.
+OpenTripPlanner (OTP) builds a Graph.obj using a list of GTFS files defined in a Chef cookbook. That cookbook is scheduled to run daily and it will pull the GTFS files from Metro's GitLab repository.
 
 The cron job schedule for the graph build is:
 `9 11 \* \* \*`
@@ -34,16 +25,13 @@ Timezone is UTC/ETC.
 
 #### Manual Update
 
-If we need OTP to pick up and process the new GTFS files immediately,
-this is what we do.
+If we need OTP to pick up and process the new GTFS files immediately, this is what we do.
 
-Access the EC2 grapher server instance via SSH (if you don't have access
-you'll have to use knife to connect to the chef server):
+Access the EC2 grapher server instance via SSH (if you don't have access you'll have to use knife to connect to the chef server):
 
 `metro-us-west-2-otp-grapher-prod-1`
 
-Manually run the cookbook to regenerate the graph file using the new
-GTFS files:
+Manually run the cookbook to regenerate the graph file using the new GTFS files:
 
 ```bash
 sudo chef-client -o recipe\[otp-server::update_graph\]
@@ -53,16 +41,14 @@ sudo chef-client -o recipe\[otp-server::update_graph\]
 
 Bus data is updated every 1-2 months.
 
-There are a few common issues that show up in validation, but none of
-them are showstoppers.
+There are a few common issues that show up in validation, but none of them are showstoppers.
 
 ### Update Procedures
 
 Clone the GitLab project (repository) to your local workspace:
 [https://gitlab.com/LACMTA/gtfs_bus](https://gitlab.com/LACMTA/gtfs_bus)
 
-Operations should have included a validation check with the new GTFS
-files. Confirm there are no errors.
+Operations should have included a validation check with the new GTFS files. Confirm there are no errors.
 
 Replace the local files with the new GTFS files.
 
