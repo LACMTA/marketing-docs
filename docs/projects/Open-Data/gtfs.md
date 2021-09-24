@@ -1,7 +1,3 @@
----
-tags:
----
-
 # GTFS Static
 
 ## Overview

@@ -1,8 +1,3 @@
----
-tags:
-  - draft
----
-
 # Processes Overview
 
 - Shakeups

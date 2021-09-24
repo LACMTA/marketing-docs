@@ -1,8 +1,3 @@
----
-tags:
-  - GIS
----
-
 # How to Use the ArcGIS Custom Metro Basemaps (Beta)
 
 Metro has been working to develop a custom ArcGIS basemap — and it’s finally here! The vision for this basemap is to bring greater consistency across Metro’s maps, from static printed maps to online interactive applications, for all types of project and service maps.

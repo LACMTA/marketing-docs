@@ -1,8 +1,3 @@
----
-tags:
-  - draft
----
-
 # Projects Overview
 Below are the Digital Services that Metro currently provides:
 

@@ -1,8 +1,3 @@
----
-tags:
-  - draft
----
-
 # Metro APIs Overview
 
 ## api.metro.net
