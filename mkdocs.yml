@@ -20,7 +20,7 @@ theme:
   favicon: assets/media/favicon.png
   logo: assets/media/favicon-reverse.png
   name: material
-  custom_dir: overrides
+  # custom_dir: overrides
   features:
       - navigation.instant
       - navigation.tabs
