@@ -6,6 +6,7 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    if: github.event.repository.fork == false
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v2
@@ -13,16 +14,15 @@ jobs:
           python-version: 3.x
         env:
           METRO_DOCS_PASS: ${{ secrets.METRO_DOCS_PASS }}
-      - run: pip install git+https://${ALBERT_KEY}@github.com/squidfunk/mkdocs-material-insiders.git
-        env:
-          ALBERT_KEY: ${{secrets.ALBERT_KEY}}          
-      # - run: pip install mkdocs-material
+      - run: pip install git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
       - run: pip install mkdocs-encryptcontent-plugin
       - run: pip install mkdocs-git-revision-date-plugin
       - run: pip install mkdocs-autorefs
       - run: pip install mkdocs-macros-plugin     
       - run: pip install mkdocs-table-reader-plugin     
       - run: mkdocs gh-deploy --force
-        env:
-          METRO_DOCS_PASS: ${{secrets.METRO_DOCS_PASS}}
+      # - run: pip install mkdocs-material
+env:
+  GH_TOKEN: ${{secrets.ALBERT_KEY}}          
+  METRO_DOCS_PASS: ${{secrets.METRO_DOCS_PASS}}
 
