@@ -58,14 +58,16 @@ extra_css:
 
 edit_uri: edit/dev/docs/
 plugins:
+  - search:
+      lang: en
+      prebuild_index: true
   - git-revision-date
   - autorefs
   - table-reader
   - macros
   - tags
         # tags_file: /assets/tags/tags.md
-  - search:
-      lang: en
+
   # - htmlproofer
       # raise_error: True
   - encryptcontent:
