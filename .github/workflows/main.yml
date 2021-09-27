@@ -13,7 +13,7 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
-      # - run: pip install mkdocs-encryptcontent-plugin
+      - run: pip install mkdocs-encryptcontent-plugin
       # - run: pip install pip install --upgrade mkdocs-material
       - run: pip install mkdocs-git-revision-date-plugin
       - run: pip install mkdocs-autorefs
