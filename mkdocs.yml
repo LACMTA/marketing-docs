@@ -61,20 +61,20 @@ plugins:
   - search:
       lang: en
       prebuild_index: true
-  - git-revision-date
-  - autorefs
-  - table-reader
+  # - git-revision-date
+  # - autorefs
+  # - table-reader
   - macros
   - tags
         # tags_file: /assets/tags/tags.md
 
   # - htmlproofer
       # raise_error: True
-  - encryptcontent:
-      title_prefix: '🔒'
-      # global_password: !ENV METRO_DOCS_PASS
-      # password_button: True      
-      encrypted_something:
-          mkdocs-encrypted-toc: [nav, class]
-          mkdocs-encrypted-footer: [div, id]
-          mkdocs-encrypted-footer-meta: [div, id]
+  # - encryptcontent:
+  #     title_prefix: '🔒'
+  #     # global_password: !ENV METRO_DOCS_PASS
+  #     # password_button: True      
+  #     encrypted_something:
+  #         mkdocs-encrypted-toc: [nav, class]
+  #         mkdocs-encrypted-footer: [div, id]
+  #         mkdocs-encrypted-footer-meta: [div, id]
