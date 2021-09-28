@@ -14,8 +14,8 @@ jobs:
           python-version: 3.x
       # - run: pip install git+https://${GH_TOKEN}@github.com/LACMTA/mkdocs-material-insiders.git
       - run: git clone --depth 1 https://${GH_TOKEN}@github.com/LACMTA/mkdocs-material-insiders.git
-      - run: pip install mkdocs-macros-plugin
       - run: pip install -e mkdocs-material-insiders
+      - run: pip install mkdocs-macros-plugin
       - run: pip install mkdocs-encryptcontent-plugin
       - run: pip install mkdocs-git-revision-date-plugin
       - run: pip install mkdocs-autorefs
