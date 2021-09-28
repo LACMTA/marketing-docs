@@ -27,6 +27,5 @@ api.metro.net is on our old AWS account, should it be upgraded and moved? It wil
 - Integrate schedule PDFs?
 - Handle future service changes?
 
-
 <!-- Nexidyne's MetroCloudAlliance APIs -->
 <!-- https://lacmta.metrocloudalliance.com/data/ -->
