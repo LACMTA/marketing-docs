@@ -35,7 +35,7 @@ theme:
     repo: fontawesome/brands/github
 
 markdown_extensions:
-    # - pymdownx.highlight:
+    - pymdownx.highlight:
     #     linenums: true
     - pymdownx.superfences
     - pymdownx.magiclink
@@ -61,10 +61,10 @@ plugins:
   - search:
       lang: en
       # prebuild_index: true
-  # - git-revision-date
-  # - autorefs
-  # - table-reader
-  # - macros
+  - git-revision-date
+  - autorefs
+  - table-reader
+  - macros
   - tags
         # tags_file: /assets/tags/tags.md
 
