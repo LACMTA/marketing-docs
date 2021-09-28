@@ -1,5 +1,5 @@
 # Metro Digital Services Documentation
-[![pull from dev to main](https://github.com/LACMTA/digital-services-team-docs/actions/workflows/merge.yml/badge.svg?branch=main)](https://github.com/LACMTA/digital-services-team-docs/actions/workflows/merge.yml)
+[![pull from dev to main](https://github.com/LACMTA/digital-services-team-docs/actions/workflows/merge.yml/badge.svg?branch=main)](https://github.com/LACMTA/digital-services-team-docs/actions/workflows/merge.yml) [![Deploy Documentation](https://github.com/LACMTA/digital-services-team-docs/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/LACMTA/digital-services-team-docs/actions/workflows/main.yml)
 ## How to get started
 
 ### Install the Python dependencies
