@@ -60,11 +60,11 @@ edit_uri: edit/dev/docs/
 plugins:
   - search:
       lang: en
-      prebuild_index: true
+      # prebuild_index: true
   # - git-revision-date
   # - autorefs
   # - table-reader
-  - macros
+  # - macros
   - tags
         # tags_file: /assets/tags/tags.md
 
