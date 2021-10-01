@@ -1,6 +1,6 @@
 ---
 tags:
-  - draft
+  - DRAFT
 ---
 
 # Automated Weekly Updates
