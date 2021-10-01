@@ -1,6 +1,8 @@
 ---
 tags:
   - GIS
+  - Design
+  - Maps
 ---
 
 # How to Use the ArcGIS Custom Metro Basemaps (Beta)
