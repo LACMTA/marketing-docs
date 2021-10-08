@@ -1,6 +1,7 @@
 ---
 
-tags: draft
+tags: 
+  - Draft
 
 ---
 
