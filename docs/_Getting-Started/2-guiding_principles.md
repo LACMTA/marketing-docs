@@ -1,4 +1,4 @@
-# Design Guidelines
+# Guiding Principles and Values
 
 _This guide is designed to establish standards across the Metro Digital touchpoints and related teams._
 
