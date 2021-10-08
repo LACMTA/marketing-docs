@@ -1,3 +1,9 @@
+---
+
+tags: draft
+
+---
+
 # How to get started
 
 This site is designed to orient people working with Metro's Marketing Division on [projects](../projects/index.md), [processes](../processes/index.md), and [software/services](../software/index.md).
@@ -11,25 +17,13 @@ This site is designed to orient people working with Metro's Marketing Division o
 
 The Metro Marketing department is organized into the following teams:
 
-### Design Studio
-
-The responsibilities of the Design Studio is to focus on print and project based documents, click here to learn more about design studio projects.
-
-### Digital Services
-
-Digital Services works on any web-based project or digital signage.
-
-### Team 1
-
-Works with service planners.
-
-### Team 2
-
-*TBD*
-
-### Team 3
-
-*TBD*
+|Team|Goal|Resources|
+---|---|---|
+**Design Studio**|*Lorem ipsum*|
+**Digital Services**|Digital Services works on any web-based project|[GitHub Projects](https://github.com/LACMTA/metro-projects)
+**Ridership**|Increase brand equity and ridership across all modes.|[Project List](https://paper.dropbox.com/doc/Team-1-Assignment-List--BT6eUad32wYMZGKFa1W5A59QAQ-JoCIFCinaEALhSq41dJpw)
+**Customer Experience**|Improve the Metro experience  for riders, employees and business communities.
+**Metro Agenda**|Build support for Metro’s vision and increase brand equity.
 
 ## Contractors
 
