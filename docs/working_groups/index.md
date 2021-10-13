@@ -4,7 +4,9 @@ tags:
 ---
 
 # Working Group Information
-Note: This is a a evolving document! The most recent version can be found here: https://paper.dropbox.com/doc/Brand-Discussion-Meeting-1013--BUO9vFecgOS9kP5djc19HNd5Ag-LwVPHePeIX40ic67cZgkI
+
+!!! note
+    This is a a evolving document (that you can be involved in working on)! The most recent version can be found here: https://paper.dropbox.com/doc/Brand-Discussion-Meeting-1013--BUO9vFecgOS9kP5djc19HNd5Ag-LwVPHePeIX40ic67cZgkI
 
 ## The Why
 
