@@ -2,6 +2,8 @@
 
 [Design Justice Presentation - 10/15/2021](media/Metro_Design_Justice_10_15_2021.pdf)
 
+[Implementing Justice Presentation - 10/15/2021](media/Presentation-Implementing_Design_Justice_v2.pdf)
+
 _This guide is designed to establish standards across the Metro Digital touchpoints and related teams._
 
 ## Mission/Goal
