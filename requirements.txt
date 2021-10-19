@@ -1,6 +1,7 @@
+git+https://github.com/LACMTA/mkdocs-material-insiders.git
 mkdocs-git-revision-date-plugin
 mkdocs-encryptcontent-plugin
 mkdocs-htmlproofer-plugin
 mkdocs-autorefs
 mkdocs-macros-plugin     
-mkdocs-table-reader-plugin     
+mkdocs-table-reader-plugin
