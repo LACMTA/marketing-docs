@@ -1,6 +1,6 @@
 ---
 tags:
-  - draft
+  - DRAFT
 ---
 
 # Processes Overview
