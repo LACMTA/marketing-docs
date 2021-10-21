@@ -64,3 +64,7 @@ The pages on the legacy website that belonged to Metro Art were transferred to t
 ### Transit School Interactive
 
 The legacy website linked to an interactive [Transit School](https://legacyweb.metro.net/interactives/transitcourt/story_html5.html) presentation that is used by Metro's Transit Court. It is not hosted through the legacy site's Django CMS, instead it sits on its own AWS server used for other one-off interactive pages. A redirect was set up to access this page until a time when we can determine a better permanent solution.
+
+## Need a redirect for Metro.net?
+
+Submit an issue [here](https://github.com/LACMTA/digital-services-team-docs/issues) or contact [Nina][nina-kin]!
