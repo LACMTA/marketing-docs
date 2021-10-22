@@ -19,12 +19,6 @@ WordPress
 
 ### Back-end
 
-These dependencies are used for aggregating the data from other Metro departments.
-
-- Jupyter Notebooks
-- pandas
-- numpy
-- docx.api
 
 ## Features
 
@@ -38,7 +32,7 @@ These dependencies are used for aggregating the data from other Metro department
 ### Backend
 
 ## Project Status
-Project is: _in progress_
+Project is live.
 
 
 ## Room for Improvement
