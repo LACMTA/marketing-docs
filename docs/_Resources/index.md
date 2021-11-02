@@ -45,8 +45,8 @@ These are places where websites and other digital media is able to be be hosted.
 |GitHub|Source Control|Recommended open source collaborative environment| Billing: Eric, Administrative: [Nina][nina-kin] |
 |GitLab|Source Control|Open source collaborative environment - currently hosts the public GTFS files||
 |Amazon Web Services (AWS)| Hosting|Hosting and various services||
-|SiteGround|Hosting||
-|Green Geeks|Hosting||
+|[SiteGround Hosting, Inc](https://login.siteground.com/?lang=en)|Hosting, Domain Names|Managed WordPress Hosting recommended by WordPress.org. Cloud-based admin and tools including staging, security, SSL, GIT. Sites including Art, The Plan, The Source, Dashboard, and El Pasajero.|Billing/Account Owner: Eric, Administrative: Joe Simpson|
+|[GreenGeeks Web Hosting](https://my.greengeeks.com/)|Hosting, Domain Names|Managed, Sustainable WordPress every amperage pulled from the grid, they match 3 times that in the form of renewable energy. Hosts Metro Micro site.|Billing/Account Owner: Eric, Administrative: Joe Simpson|
 
 ## Administrative Resources
 
