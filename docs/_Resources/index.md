@@ -47,6 +47,7 @@ These are places where websites and other digital media is able to be be hosted.
 |Amazon Web Services (AWS)| Hosting|Hosting and various services||
 |[SiteGround Hosting, Inc](https://login.siteground.com/?lang=en)|Hosting, Domain Names|Managed WordPress Hosting recommended by WordPress.org. Cloud-based admin and tools including staging, security, SSL, GIT. Sites including Art, The Plan, The Source, Dashboard, and El Pasajero.|Billing/Account Owner: Eric, Administrative: Joe Simpson|
 |[GreenGeeks Web Hosting](https://my.greengeeks.com/)|Hosting, Domain Names|Managed, Sustainable WordPress every amperage pulled from the grid, they match 3 times that in the form of renewable energy. Hosts Metro Micro site.|Billing/Account Owner: Eric, Administrative: Joe Simpson|
+|[HardyPress](https://wp-admin.hardypress.com/old-pond-5979/wp-login)|Headless WordPress|Static website generator for WordPress sites. Host for Brand Standards site.|Billing: Unknown (Eric?), Administrative: Doug/Joe|
 
 ## Administrative Resources
 
