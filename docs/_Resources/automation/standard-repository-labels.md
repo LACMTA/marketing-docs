@@ -1,4 +1,4 @@
-# Standard Repository Labling
+# Standard Repository Labeling
 To ensure consistancy across GitHub repositories, we currently use the following labels:
 
 |Label|Color
