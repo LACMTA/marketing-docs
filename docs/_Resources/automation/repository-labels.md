@@ -1,13 +1,44 @@
 # Standard Repository Labling
-To ensure consistancy across GitHub repositories, we currently use the follow labels:
+To ensure consistancy across GitHub repositories, we currently use the following labels:
+
+|Label|Color
+|----|-----|
+|Theme: UX/UI |#FBCA0
+|Theme: Data|#FBCA04
+|Theme: Infrastructure|#FBCA04
+|Theme: Content|#FBCA04
+|Auto: Automation|#005200
+|0-Priority: Critical|#ff2222
+|0-Priority: High|#FF7922
+|0-Priority: Low|#c2e0c6
+|0-Priority: Medium|#fbca04
+|1-Status: Not Accepted|#FC8264
+|1-Status: Complete|#36d636
+|1-Status: Accepted|#FC8264
+|1-Status: Info Needed|#FC8264
+|1-Status: In Progress|#FC8264
+|1-Status: On Hold|#FC8264
+|1-Status: QA|#FC8264
+|Project: Trip Planner|#964dc7
+|Project: Schedules|#964dc7
+|Project: Alerts|#964dc7
+|Type: Bug|#1d76db
+|Type: Documentation|#1d76db
+|Type: Enhancement|#1d76db
+|Type: Feature|#1d76db
+|Type: Help Needed|#1d76db
+|Type: Suggestion|#1d76db
+|Type: Task|#1d76db
+|Type: Question|#1d76db"}
 
 
 ## How to use
 1. First navigate to a GitHub repository you have read/write access to and go to the `Issues` page.
 2. Click on `Labels`
-3. Click on `Edit`
-4. Open your web browser's `Web Console`, usually by pressing `F12`
-5. Copy and paste the following script into the `web console`:
+3. Click on `New Label`
+4. Click on `Edit`
+5. Open your web browser's `Web Console`, usually by pressing `F12`
+6. Copy and paste the following script into the `web console`:
 
 ```
 const OUR_LABELS = 
@@ -96,5 +127,5 @@ function main(){
 
 main();
 ```
-6. Press `Enter` to run the script!
-7. Complete! Your repository will now have the standard labels as above.
+7. Press `Enter` to run the script!
+8. Complete! Your repository will now have the standard labels as above.
