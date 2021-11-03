@@ -30,7 +30,7 @@ This repository uses labels heavily and is our initial test case to work out lab
 5. Open your web browser's `Web Console`, usually by pressing `F12`
 6. Copy and paste the following script into the `web console`:
 
-```
+``` js
 const OUR_LABELS = 
   [
       {"name": "Theme: UX/UI ","color": "#FBCA04"},
