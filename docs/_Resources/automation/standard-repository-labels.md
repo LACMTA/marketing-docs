@@ -22,6 +22,8 @@ The high level categories should stay the same.  Some categories' values should 
 
 This repository uses labels heavily and is our initial test case to work out labeling needs.  It's used to capture and display information from the contractor's (The Glue's) Jira board.
 
+More information about the life boat website can be found on [this page](../_Projects/Lifeboat).
+
 ## How to use
 1. First navigate to a GitHub repository you have read/write access to and go to the `Issues` page.
 2. Click on `Labels`
