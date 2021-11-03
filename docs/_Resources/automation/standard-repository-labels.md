@@ -1,36 +1,26 @@
 # Standard Repository Labeling
-To ensure consistancy across GitHub repositories, we currently use the following labels:
 
-|Label|Color
-|----|-----|
-|Theme: UX/UI |#FBCA0
-|Theme: Data|#FBCA04
-|Theme: Infrastructure|#FBCA04
-|Theme: Content|#FBCA04
-|Auto: Automation|#005200
-|0-Priority: Critical|#ff2222
-|0-Priority: High|#FF7922
-|0-Priority: Low|#c2e0c6
-|0-Priority: Medium|#fbca04
-|1-Status: Not Accepted|#FC8264
-|1-Status: Complete|#36d636
-|1-Status: Accepted|#FC8264
-|1-Status: Info Needed|#FC8264
-|1-Status: In Progress|#FC8264
-|1-Status: On Hold|#FC8264
-|1-Status: QA|#FC8264
-|Project: Trip Planner|#964dc7
-|Project: Schedules|#964dc7
-|Project: Alerts|#964dc7
-|Type: Bug|#1d76db
-|Type: Documentation|#1d76db
-|Type: Enhancement|#1d76db
-|Type: Feature|#1d76db
-|Type: Help Needed|#1d76db
-|Type: Suggestion|#1d76db
-|Type: Task|#1d76db
-|Type: Question|#1d76db"}
+Each of our labels have two parts: a category and a value.
 
+The high level categories should stay the same.  Some categories' values should be adjusted depending on the project.
+
+## Categories
+
+* __0-Priority__ - Use this category for issue priority.  If an issue is on hold, this can be used to indicate the issue's priority once that issue is in progress again.
+* __1-Status__ - Use this category to indicate the status or progress of the issue.  This category has the most variation since needs will depend on workflows.
+* __Assignee__ - Use this category when a repo has assignees who cannot be added as a collaborator because they don't have an account or because they are not part of the organization and it's a private repo.  We are using this to track assignees with issues ported from Jira using the Zapier automation.
+* __Auto__ - Use this category if there is an automation tied to this issue.
+* __Project__ - Some repositories/projects include self-contained subcomponents.  Use this category to tie together issues related to that subcomponent.
+* __Theme__ - Use this category to track themes, or areas of work within this project/repository.  For example - content updates, infrastructure issues, UX/UI design work, development, etc.
+* __Type__ - This category indicates whether an issue is a bug, a task, a question, etc.
+
+## Use Cases
+
+### metro-dot-net
+
+[metro-dot-net repository](https://github.com/LACMTA/metro-dot-net/)
+
+This repository uses labels heavily and is our initial test case to work out labeling needs.  It's used to capture and display information from the contractor's (The Glue's) Jira board.
 
 ## How to use
 1. First navigate to a GitHub repository you have read/write access to and go to the `Issues` page.
