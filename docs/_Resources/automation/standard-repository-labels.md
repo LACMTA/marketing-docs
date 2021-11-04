@@ -2,7 +2,10 @@
 
 Each of our labels have two parts: a category and a value.
 
-The high level categories should stay the same.  Some categories' values should be adjusted depending on the project.
+The high level categories should stay the same.  Some categories' values should be adjusted depending on the project. 
+
+!!! note
+    `0-` and `1-` are used for `priority` and `status` to keep their order in front of other labels in the repository.
 
 ## Categories
 
@@ -16,11 +19,9 @@ The high level categories should stay the same.  Some categories' values should 
 
 ## Use Cases
 
-### metro-dot-net
+### Metro-dot-net
 
-[metro-dot-net repository](https://github.com/LACMTA/metro-dot-net/)
-
-This repository uses labels heavily and is our initial test case to work out labeling needs.  It's used to capture and display information from the contractor's (The Glue's) Jira board.
+The [Metro-dot-net repository](https://github.com/LACMTA/metro-dot-net/) uses labels heavily and is our initial test case to work out labeling needs. It's used to capture and display information from the contractor's (The Glue's) Jira board.
 
 More information about the Lifeboat website can be found on [this page](../_Projects/Lifeboat/metrobeta.md).
 
