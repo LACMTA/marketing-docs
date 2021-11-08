@@ -5,7 +5,4 @@ tags:
 
 # Processes Overview
 
-- Shakeups
-- Construction
-- Special Events
-- WordPress
+Recurring internal processes.
