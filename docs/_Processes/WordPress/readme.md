@@ -20,7 +20,7 @@ Over a decade later, a WordPress Network of over 15 sites have been built on var
 To address a demand for project-related, date-sensitive topical or 'vanity' websites that separately housed with [Metro's Report to the Communities of LA County](http://media.metro.net/about_us/finance/images/annual_report/annual_report_fy15.pdf) on Squarespace by Akemi Shimbasi in 2015. A self-hosted solution was preferred and subsequent sites were built using WordPress.
 
 | Website| Project Description| Documentation| Status|
---|--|--|--|
+|--|--|--|--|
 |***America Fast Forward***|Website covering a national initiative to build infrastructure and create transportation projects at ***americafastforward.metro.net.***|[YNAW](https://docs.google.com/document/d/1Axzofk8vGIUELxIwwyt0bR_vigGuRryNQzv6qFikdDc/edit?usp=sharing)|Archived|
 |***Annual Report***|Metro Finance's digital version of Metro CEO Phillip Washington's Report to the Communities of LA County at ***annualreport.metro.net.***|Pending|Archived|
 |[**Developer**](https://developer.metro.net)|Originally set up to be a public access point or repository for developers who needed transit data and services.|[YNAW](https://docs.google.com/document/d/1VYCE1buW6RuWFJKJ_M79b-11BIjyy55ChKiLdrDlXcs/edit?usp=sharing)|Live|
