@@ -56,6 +56,11 @@ extra_javascript:
 extra_css:
   - ../assets/stylesheets/extra.css
 
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/metrolosangeles
+
 edit_uri: edit/dev/docs/
 plugins:
   - search:
