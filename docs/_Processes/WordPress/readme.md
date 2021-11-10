@@ -1,5 +1,5 @@
-# WordPress Usage
-## Overview
+# WordPress at Metro
+## Project Overview
 
 On October 20, 2009, at the request of Marc Littman, DEO of Public Relations, Douglas Goodwin and Sharie Powell worked with Steve Hymon to create a daily blog that covered Metro's Board of Director and general activities. [The Source, Metro Transportation News and Views](https://web.archive.org/web/20091023024519/http://thesource.metro.net/), went live. With a directive to publish 5 to 7 stories per day to communicate to a new audience totaling 11,902 stories, 20,438 images, and 23 evergreen pages to date.
 
