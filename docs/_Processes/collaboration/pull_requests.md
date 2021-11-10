@@ -14,7 +14,8 @@ tags:
 5. Reviewer will pull changes to local and decide on one of the following:
     - `approve` - No edits needed, but minor changes might have been made by the reviewer.
     - `request changes` - Feedback needs to be addressed before the pull request can be merged.
-6. Reviewer will merge and close the pull request.
+6. If changes or comments are needed will get a mention in your email or bell notification on GitHub if you are watching the repository.
+7. Reviewer will merge and close the pull request.
 
 !!! note
     This process can be bypassed when working collaboratively! (DO IT!)
@@ -26,8 +27,9 @@ tags:
 3. Depending on the number and complexity of changes that need to be made choose one of the following:
     - `approve` - Approve and merge the pull request as is or with minor edits of your own.
     - `request changes` - Provide feedback on changes that the author needs to make, these can include content edits or major changes.
-4. Merge and close the pull request
-5. Delete branch if it is a one-time branch.
+4. Be sure to tag the user with a mention (@username) in your pull request if they need to make changes or provide comments.
+5. Merge and close the pull request
+6. Delete branch if it is a one-time branch.
 
 ## Branching Policy
 
