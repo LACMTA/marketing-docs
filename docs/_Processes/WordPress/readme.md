@@ -23,7 +23,7 @@ To address a demand for project-related, date-sensitive topical or 'vanity' webs
 |--|--|--|--|
 |***America Fast Forward***|Website covering a national initiative to build infrastructure and create transportation projects at ***americafastforward.metro.net.***|[YNAW](https://docs.google.com/document/d/1Axzofk8vGIUELxIwwyt0bR_vigGuRryNQzv6qFikdDc/edit?usp=sharing)|Archived|
 |***Annual Report***|Metro Finance's digital version of Metro CEO Phillip Washington's Report to the Communities of LA County at ***annualreport.metro.net.***|Pending|Archived|
-|[**Developer**](https://developer.metro.net)|Originally set up to be a public access point or repository for developers who needed transit data and services.|[YNAW](https://docs.google.com/document/d/1VYCE1buW6RuWFJKJ_M79b-11BIjyy55ChKiLdrDlXcs/edit?usp=sharing)|Live|
+|[**Developer**](https://developer.metro.net)|Originally set up to be a public access point or repository for developers who needed transit data and services.|[YNAW](https://docs.google.com/document/d/1VYCE1buW6RuWFJKJ_M79b-11BIjyy55ChKiLdrDlXcs/edit?usp=sharing)*|Live|
 |[**El Pasajero**](https://elpasajero.metro.net)|Originally set up as the sibling site to Metro’s the Source to a Spanish reading audience. Jose Ubaldo and Maria Luisa Arredondo Pagaza lead the editorial team.|[YNAW](https://docs.google.com/document/d/1fPKG3tuRzl9HuJkMt3V2OuI5YzIrFlSvwxObMXamSow/edit?usp=sharing)|Live|
 |[**Help**](https://ericm59.sg-host.com/)|How to's and tutorials for Agency staff on various Metro Lifeboat tasks.|Pending|Live|
 |[**Metro Primary Resources**](https://metroprimaryresources.info)|Transportation Library and Archive link aggregator site. Hosted and maintained by Records Management staff.|Pending|Live| 
@@ -33,7 +33,9 @@ To address a demand for project-related, date-sensitive topical or 'vanity' webs
 |***More Gold***|Metro Gold Line Grand Opening at ***moregold.metro.net***|Pending|Archived|
 |[**The Plan**](https://theplan.metro.net)|Originally set up to be the landing page for Metro’s Ballot Measure M initiative. Measure M ballot initiative website featuring multi-language content and menu system.|[YNAW](https://docs.google.com/document/d/1rBSSHRPD_QiKpkXLOxsr6C2JSup6gqKWrIL-A8JJTQo/edit?usp=sharing)|Live|
 
+*These sites require additional access, please contact [Joe Simpson][joe-simpson].
 #### Lifeboat
 
+- [Metro Lifeboat][metronet-lifeboat]
 - [**Metro.net**](https://metro.net)
 - [**Art.metro.net**](https://art.metro.net)
