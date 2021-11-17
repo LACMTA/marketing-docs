@@ -7,7 +7,7 @@
 
 ## Third-Party Reports & Insights
 - LA Metro Rider Happiness Benchmark Report - Transit, 2021
-    - Report
+    - [Report](transit-LA METRO Report - RHB Summer2021.pdf)
     - Raw Data
     - Methodology
 - [Who’s On Board survey](https://transitcenter.org/wp-content/uploads/2019/02/TC_WhosOnBoard_Final_digital-1-1.pdf) - Transit Center, 2019
