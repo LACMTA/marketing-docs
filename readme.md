@@ -1,6 +1,5 @@
 # Metro Digital Services Documentation
-
-[![Deploy Documentation](https://github.com/LACMTA/marketing-docs/actions/workflows/main.yml/badge.svg)](https://github.com/LACMTA/marketing-docs/actions/workflows/main.yml)
+[![Deploy Documentation](https://github.com/LACMTA/digital-services-team-docs/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/LACMTA/digital-services-team-docs/actions/workflows/main.yml)
 
 ## How to get started
 
