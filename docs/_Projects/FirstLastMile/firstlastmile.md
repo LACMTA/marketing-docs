@@ -38,63 +38,67 @@ https://tiles.arcgis.com/tiles/TNoJFjk1LsD45Juj/arcgis/rest/services/Hybrid_Rast
 https://tiles.arcgis.com/tiles/TNoJFjk1LsD45Juj/arcgis/rest/services/Hybrid_Vector_tile_Map/VectorTileServer
 ```
 
-Follow the instructions below to get started with using it in QGIS.
+The instructions below show how to add them in QGIS.
 
 ### Add the map server
 
 !!! warning
-    The map tiles will not show up when zoomed in beyond 1:4513 due to limitations on tiling.
+    The map tiles will not show up when zoomed in beyond `1:4513` due to limitations on tiling.
 
-
-1. Go to `Layer` then `Add Layer` and click on `Add ArcGIS Map Service Layer`.
+Go to `Layer` then `Add Layer` and click on `Add ArcGIS Map Service Layer`.
 
 <img src="../media/flm_basemap.png" width="600">
 
-2. Click on `New`
+Click on `New`
 
 <img src="../media/map_server_connect_1.png" width="600">
 
-3. Add the following URL to the URL section:
-
-<img src="../media/map_server_connect_2.png" width="600">
+Add the following URL to the URL section:
 
 ```
 https://tiles.arcgis.com/tiles/TNoJFjk1LsD45Juj/arcgis/rest/services/Hybrid_Raster_tile_Map/MapServer
 ```
 
-4. Click OK.
-<img src="../media/map_server_connect_2.png" width="600">
+Click OK.
 
-5. Click `Add`.
+<img src="../media/map_server_connect_2.png" width="400">
+
+Click `Add`.
 
 <img src="../media/map_server_connect_3.png" width="600">
 
-6. Now you should have the lines added:
+Now you should have the lines added:
 
 <img src="../media/map_server_connect_4.png" width="600">
 
-For more help, please check this [link](https://gis.stackexchange.com/questions/202615/adding-arcgis-online-services-to-qgis).
-
 ### Add the vector tile
 
-1. Go to `Layer` then `Add Layer` and click on `Add Vector Tile Layer`.
+Go to `Layer` then `Add Layer` and click on `Add Vector Tile Layer`.
 
-<img src="../media/map_server_connect_0.png" width="600">
+<img src="../media/vector_tile_connect_0.png" width="600">
 
-2. Click on `New` then `New ArcGIS Vector Tile Service Connection...`
+Click on `New` then `New ArcGIS Vector Tile Service Connection...`
 
-<img src="../media/map_server_connect.png" width="600">
+<img src="../media/vector_tile_connect.png" width="300">
 
-3. Under `Service URL` add the following URL:
+Under `Service URL` add the following URL:
 
 ```
 https://tiles.arcgis.com/tiles/TNoJFjk1LsD45Juj/arcgis/rest/services/Hybrid_Vector_tile_Map/VectorTileServer
 ```
 
-4. FIll in the `Name` then click `OK`
-<img src="../media/map_server_connect_2.png" width="600">
+FIll in the `Name` then click `OK`
 
-5. Click `Add`.
-<img src="../media/map_server_connect_3.png" width="600">
+<img src="../media/vector_tile_connect_2.png" width="600">
 
-6. Now you should have the basemap added:
+Click `Add`.
+
+<img src="../media/vector_tile_connect_3.png" width="600">
+
+Congrats, you are now ready to work with the basemap!
+
+<img src="../media/vector_tile_connect_4.png" width="600">
+
+### Additional Help
+
+For more help, please check this [link](https://gis.stackexchange.com/questions/202615/adding-arcgis-online-services-to-qgis).
