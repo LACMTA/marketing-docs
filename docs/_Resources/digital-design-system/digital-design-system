@@ -2,6 +2,8 @@
 
 The Metro Digital Design System is a collection of components that are designed to be used in conjunction with digital Metro Projects. The purpose is to re-use and streamline the development of Metro websites.
 
+![](./media/metro_digital_design_system.png)
+
 The following website lists the supported components to use in your application.
 
 [https://lacmta.github.io/design-system/build/](https://lacmta.github.io/design-system/build/)
