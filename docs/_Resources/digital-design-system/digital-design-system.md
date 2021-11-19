@@ -2,8 +2,10 @@
 
 The Metro Digital Design System is a collection of components that are designed to be used in conjunction with digital Metro Projects. The purpose is to re-use and streamline the development of Metro websites.
 
+## How to use - Vanilla JavaScript
 
-## How to use
+!!! info
+    Support for node.js and other package mangement is planned.
 
 You should include both the CSS and JavaScript files in order to use this Digital Design System.
 
@@ -25,6 +27,11 @@ The following website lists the supported components to use in your application.
 ![https://lacmta.github.io/design-system/build/](./media/metro_digital_design_system.png)
 
 [https://lacmta.github.io/design-system/build/](https://lacmta.github.io/design-system/build/)
+
+
+## Acknowledgements
+
+The Metro Digital Design System is a fork of the [US Web Design System](https://designsystem.digital.gov/).
 
 ## Contributing
 
