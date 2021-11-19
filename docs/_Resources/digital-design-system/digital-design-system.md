@@ -15,7 +15,7 @@ You should include both the CSS and JavaScript files in order to use this Digita
 
 ### JavaScript 
 
-```
+``` html
 <script src="https://lacmta.github.io/design-system/dist/js/uswds.min.js"></script>
 <script src="https://lacmta.github.io/design-system/dist/js/uswds-init.min.js"></script>
 ```
