@@ -30,6 +30,8 @@ The following website lists the supported components to use in your application.
 
 ## For Developers
 
+### Install Manually
+
 Start here: https://designsystem.digital.gov/documentation/fundamentals/
 
 Make sure `node` and `npm` are installed.
@@ -45,6 +47,9 @@ Continue following the instructions to create the default directories in `gulpfi
 !!! warning
     The dependencies do not already include the `del` package and if you try to initialize gulp you will get an error message.  Manually install `del` by running: `npm install --save del`
 
+### Install by Cloning Repo
+
+Follow the instructions here: https://github.com/LACMTA/metro-design-system-gulp
 
 ## Acknowledgements
 
