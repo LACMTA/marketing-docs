@@ -8,10 +8,10 @@ Below are the Digital Services that Metro currently provides:
 
 ## Websites
 
-- [HTML Schedules](htmlschedules.md)
-- [MyBus](mybus/mybus.md)
-- [Metro Beta (Lifeboat)](metrobeta.md)
-- [Trip Planner](tripplanner.md)
+- [HTML Schedules](Lifeboat/htmlschedules.md)
+- [MyBus](mybus/MyBus.md)
+- [Metro Beta (Lifeboat)](Lifeboat/metrobeta.md)
+<!-- - [Trip Planner](tripplanner.md) -->
 
 ## Data and APIs
 
