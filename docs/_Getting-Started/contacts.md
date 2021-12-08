@@ -7,3 +7,9 @@
 
 - GitHub account: [@albertkun](https://github.com/albertkun)
 - Email: kochaphuma@metro.net
+
+
+## Joe Simpson
+
+- GitHub account: [@joesimpsonjr](https://github.com/joesimpsonjr)
+- Email: simpsonj@metro.net

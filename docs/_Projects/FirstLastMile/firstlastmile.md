@@ -15,18 +15,90 @@ This project is used to help provide input for first last mile options.
 |----|----|-----|
 |**First/Last Mile On-Call Notes**|https://lacmta.sharepoint.com/:w:/s/FirstLastMile/EcnGhBJNfQ9MluHXf_ch1qcBG9W-uUIuFT8fadeuN-Y7ag?e=j9h6GL|Notes about the FLM for the consultants.
 |**Notes on GIS Task**|https://paper.dropbox.com/doc/5.-Notes-on-GIS-Task--BV9rs~SVodjuXizmz6AjjnQyAg-CPQQzNE2AcE3VeM7NOi4r|
+|**First/Last Mile SVG Icons**|https://paper.dropbox.com/doc/FLM-SVG-Icon-Links-Draft--BWhn6cOIYyOaK9eahK6q~CTWAQ-p6MZrfH555vuDKJQVWqB9|
 
+## Using the Metro basemap with QGIS
 
-## Basemap
+The Metro basemap is a map package that has two components that works as a bundle in ArcPro and ArcGIS Online, but needs to be added individually in QGIS as the following:
+- Hybrid Raster Map Service
+- Hybrid Vector tile Map
 
-The Vector Tile basemap is a mapservice provided by DCR/Metro is hosted on ArcGIS Online and can be connected to by using this link:
+### URLs
+The following are the direct URLs for the Metro basemap:
+
+#### Hybrid Raster Map Service
 
 ```
 https://tiles.arcgis.com/tiles/TNoJFjk1LsD45Juj/arcgis/rest/services/Hybrid_Raster_tile_Map/MapServer
 ```
 
-You can use the Add ArcGIS Map Service Layer to add the map as follows:
+#### Hybrid Vector tile Map
+
+```
+https://tiles.arcgis.com/tiles/TNoJFjk1LsD45Juj/arcgis/rest/services/Hybrid_Vector_tile_Map/VectorTileServer
+```
+
+The instructions below show how to add them in QGIS.
+
+### Add the map server
+
+!!! warning
+    The map tiles will not show up when zoomed in beyond `1:4513` due to limitations on tiling.
+
+Go to `Layer` then `Add Layer` and click on `Add ArcGIS Map Service Layer`.
 
 <img src="../media/flm_basemap.png" width="600">
 
-For more info, please check this [link](https://gis.stackexchange.com/questions/202615/adding-arcgis-online-services-to-qgis).
+Click on `New`
+
+<img src="../media/map_server_connect_1.png" width="600">
+
+Add the following URL to the URL section:
+
+```
+https://tiles.arcgis.com/tiles/TNoJFjk1LsD45Juj/arcgis/rest/services/Hybrid_Raster_tile_Map/MapServer
+```
+
+Click OK.
+
+<img src="../media/map_server_connect_2.png" width="400">
+
+Click `Add`.
+
+<img src="../media/map_server_connect_3.png" width="600">
+
+Now you should have the lines added:
+
+<img src="../media/map_server_connect_4.png" width="600">
+
+### Add the vector tile
+
+Go to `Layer` then `Add Layer` and click on `Add Vector Tile Layer`.
+
+<img src="../media/vector_tile_connect_0.png" width="600">
+
+Click on `New` then `New ArcGIS Vector Tile Service Connection...`
+
+<img src="../media/vector_tile_connect.png" width="300">
+
+Under `Service URL` add the following URL:
+
+```
+https://tiles.arcgis.com/tiles/TNoJFjk1LsD45Juj/arcgis/rest/services/Hybrid_Vector_tile_Map/VectorTileServer
+```
+
+FIll in the `Name` then click `OK`
+
+<img src="../media/vector_tile_connect_2.png" width="600">
+
+Click `Add`.
+
+<img src="../media/vector_tile_connect_3.png" width="600">
+
+Congrats, you are now ready to work with the basemap!
+
+<img src="../media/vector_tile_connect_4.png" width="600">
+
+### Additional Help
+
+For more help, please check this [link](https://gis.stackexchange.com/questions/202615/adding-arcgis-online-services-to-qgis).
