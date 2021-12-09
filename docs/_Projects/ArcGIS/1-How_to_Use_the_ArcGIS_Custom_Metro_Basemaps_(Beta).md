@@ -7,6 +7,9 @@ tags:
 
 # How to Use the ArcGIS Custom Metro Basemaps (Beta)
 
+!!! note
+    This is a a evolving document. The most recent version can be found here: https://paper.dropbox.com/doc/How-to-Use-the-ArcGIS-Custom-Metro-Basemaps-Beta--BXvV18wSDfRYkWa0TXZJHoQyAQ-Be2QZfJXXMcAs7vr3D9IU
+
 Metro has been working to develop a custom ArcGIS basemap — and it’s finally here! The vision for this basemap is to bring greater consistency across Metro’s maps, from static printed maps to online interactive applications, for all types of project and service maps.
 
 Our new custom basemap will improve efficiency in creating branded online and printed maps by streamlining the styling process, reducing the amount of manual work required to [style public-facing maps](https://www.dropbox.com/s/819q9y3ncffxxkn/21-2363_Project_Map_Style_Sheet_2021_May12.pdf?dl=0) to [Metro brand specifications](http://brand.metro.net).

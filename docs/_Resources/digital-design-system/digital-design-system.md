@@ -28,6 +28,28 @@ The following website lists the supported components to use in your application.
 
 [https://lacmta.github.io/design-system/build/](https://lacmta.github.io/design-system/build/)
 
+## For Developers
+
+### Install Manually
+
+Start here: https://designsystem.digital.gov/documentation/fundamentals/
+
+Make sure `node` and `npm` are installed.
+
+Follow the instructions to use `npm init` to create a `package.json` file and then install the `uswds` package via `npm`.
+
+Next, go down to the section about `uswds-gulp`: https://designsystem.digital.gov/documentation/fundamentals/#how-to-compile-using-uswds-gulp
+
+First install `gulp-cli` using `npm install gulp-cli -g`, then follow the instructions to install `uswds-gulp`.
+
+Continue following the instructions to create the default directories in `gulpfile.js`.
+
+!!! warning
+    The dependencies do not already include the `del` package and if you try to initialize gulp you will get an error message.  Manually install `del` by running: `npm install --save del`
+
+### Install by Cloning Repo
+
+Follow the instructions here: https://github.com/LACMTA/metro-design-system-gulp
 
 ## Acknowledgements
 
