@@ -19,10 +19,29 @@ This project is used to help provide input for first last mile options.
 
 ## Using the Metro basemap with QGIS
 
+!!! warning
+    In order to use the Metro basemap you must use QGIS 3.16 or later, due to the lack of support for vector tiles in previous versions.
+
 The Metro basemap is a map package that has two components that works as a bundle in ArcPro and ArcGIS Online, but needs to be added individually in QGIS as the following:
+
 - Hybrid Raster Map Service
 - Hybrid Vector tile Map
 
+There are two ways to utilize the Metro basemap in QGIS:
+
+## Method 1 - Using the qgz file
+
+Download the following QGZ file and open it in QGIS:
+
+[Custom_Basemap_for_Consultants.qgz](./Custom_Basemap_for_Consultants.qgz)
+
+## Method 2 - Add the basemap layers individually
+
+This method has three steps:
+
+1) [Adding the Hybrid Raster Map Service](#step-1---add-the-map-server)
+2) [Adding the Vector Tile Service](#step-2---add-the-vector-tile)
+3) [Adding the font styles](#step-3---add-the-font-styles)
 ### URLs
 The following are the direct URLs for the Metro basemap:
 
@@ -38,11 +57,15 @@ https://tiles.arcgis.com/tiles/TNoJFjk1LsD45Juj/arcgis/rest/services/Hybrid_Rast
 https://tiles.arcgis.com/tiles/TNoJFjk1LsD45Juj/arcgis/rest/services/Hybrid_Vector_tile_Map/VectorTileServer
 ```
 
-The instructions below show how to add them in QGIS.
+#### Font Styles to import for Vector tile Map
 
-### Add the map server
+[Custom_Basemap_Font_Styles.qml](./Custom_Basemap_Font_Styles.qml)
 
-!!! warning
+The instructions go through the process step-by-step.
+
+### Step 1 - Add the map server
+
+!!! important
     The map tiles will not show up when zoomed in beyond `1:4513` due to limitations on tiling.
 
 Go to `Layer` then `Add Layer` and click on `Add ArcGIS Map Service Layer`.
@@ -71,7 +94,7 @@ Now you should have the lines added:
 
 <img src="../media/map_server_connect_4.png" width="600">
 
-### Add the vector tile
+### Step 2 - Add the vector tile
 
 Go to `Layer` then `Add Layer` and click on `Add Vector Tile Layer`.
 
@@ -98,6 +121,55 @@ Click `Add`.
 Congrats, you are now ready to work with the basemap!
 
 <img src="../media/vector_tile_connect_4.png" width="600">
+
+### Step 3 - Adding the font styles
+
+!!! warning
+    You will need the Dinn, Dinn Pro, Dinn Bold, and Dinn Condensed fonts installed in order to follow this part of the guide.
+
+Download the Metro QGIS font style definition here:
+
+[Custom_Basemap_Font_Styles.qml](./Custom_Basemap_Font_Styles.qml)
+
+Right click on the Vector Tile layer `Metro Vector Tile Map` 
+
+<img src="../media/fonts-1.png" width="600">
+
+Go to `Properties`:
+
+<img src="../media/fonts-2.png" width="600">
+
+Click on `Labels`:
+
+<img src="../media/fonts-3.png" width="600">
+
+Click on `Style`:
+
+<img src="../media/fonts-4.png" width="600">
+
+Click on `Load Style...`:
+
+<img src="../media/fonts-5.png" width="600">
+
+Click on the `...` button to find the downloaded QGIS Styles that were provided at the start.
+
+<img src="../media/fonts-6.png" width="300">
+
+Select it:
+
+<img src="../media/fonts-7.png" width="300">
+
+Click `Load Style`:
+
+<img src="../media/fonts-8.png" width="300">
+
+Click `OK`:
+
+<img src="../media/fonts-9.png" width="400">
+
+Your basemap should now look like the following:
+
+<img src="../media/fonts-10.png" width="600">
 
 ### Additional Help
 
