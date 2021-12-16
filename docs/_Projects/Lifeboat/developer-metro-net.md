@@ -18,8 +18,6 @@ Metro schedule data is available in the GTFS format. GTFS data was separated int
 !!! info
     For information on the GTFS-RT specification visit [here](https://gtfs.mobilitydata.org/best-practices/gtfs-realtime).
 
-
-
 ## Migrating from Nextbus to the Swiftly API
 
 !!! warning
@@ -27,6 +25,7 @@ Metro schedule data is available in the GTFS format. GTFS data was separated int
 Information on performing the migration can be found below and on [https://developer.metro.net/migrating](https://developer.metro.net/migrating).
 
 ### How-to Guide
+
 1. Sign-up for a developer API key
    - [API Key Request](https://forms.gle/hXGY6kRGAChDqWwz5)
 2. Test the API
