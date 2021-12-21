@@ -20,7 +20,7 @@ The Metro Marketing department is organized into the following teams:
 
 |Team|Goal|Resources|
 ---|---|---|
-**Design Studio**|*Lorem ipsum*|
+**Design Studio**|*Lorem ipsum*| [On-boarding Dropbox Paper](https://paper.dropbox.com/doc/Design-Studio-Onboarding-DRAFT--BYfOoEKxdJdkh9NQQmzdoHsaAg-DG9w33MTYVMxzvQVRzcBg)
 **Digital Services**|Digital Services works on any web-based project|[GitHub Projects](https://github.com/LACMTA/metro-projects) [Asana Board](https://app.asana.com/0/1197112683792379/list)
 **Ridership**|Increase brand equity and ridership across all modes.|[Project List](https://paper.dropbox.com/doc/Team-1-Assignment-List--BT6eUad32wYMZGKFa1W5A59QAQ-JoCIFCinaEALhSq41dJpw)
 **Customer Experience**|Improve the Metro experience  for riders, employees and business communities.
