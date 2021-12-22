@@ -9,7 +9,7 @@
 ## Straightforward fields:
 Campaign/Project, Name, Partner/Department, Flighting, Ad Budget, Ad Copy, Ad Headline, Ad Type, Ad Link, Notes, Attachments
 
-## TARGETING:
+## Targeting:
 
 Audience: Riders, Non-Riders, Residents, Visitors, etc.
 
@@ -21,18 +21,18 @@ Detailed/Interests: e.g. Art Enthusiast - people who's hobbies and activities in
 
 “For targeting, we should probably begin to formalize high-level segments or a common approach to targeting across all of Marketing.” - John Gordon
 
-## OBJECTIVES:
-- Reach – Everyone needs to know
-- Traffic – Destination is key
-- Conversion – Pixel results page
-- Event Responses
+## Objectives:
+Reach – Everyone needs to know
+Traffic – Destination is key
+Conversion – Pixel results page
+Event Responses
 - Business page access
 - Eventbrite x FB
 Video Views
 - URL vs Upload
 - SRT File (captions)
-- Lead Generation –  Ad is in the form
-- App Installs
+Lead Generation –  Ad is in the form
+App Installs
 
 KPIs, KPIs, KPIs - Must have in order to guage sucess!
 
