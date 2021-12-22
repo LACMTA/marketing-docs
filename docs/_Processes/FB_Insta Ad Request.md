@@ -1,10 +1,10 @@
 # Facebook/Instagram Ad Request
 
+[Asana is the new Wufoo](https://form.asana.com/?k=-FszA8cy6ezQ0Um9fPQdQg&d=112319914427543)
+
 ## Before you submit the request form, please note the following:
 1. Reposition requests from one-off buys to upfront strategy planning.
 2. Allow at least 4-5 business days of lead time for campaign setup.
-
-[Asana is the new Wufoo](https://form.asana.com/?k=-FszA8cy6ezQ0Um9fPQdQg&d=112319914427543)
 
 ## Straightforward fields:
 Campaign/Project, Name, Partner/Department, Flighting, Ad Budget, Ad Copy, Ad Headline, Ad Type, Ad Link, Notes, Attachments
