@@ -23,20 +23,28 @@ Detailed/Interests: e.g. Art Enthusiast - people who's hobbies and activities in
 
 ## Objectives:
 Reach – Everyone needs to know
+
 Traffic – Destination is key
+
 Conversion – Pixel results page
+
 Event Responses
 - Business page access
 - Eventbrite x FB
+
 Video Views
 - URL vs Upload
 - SRT File (captions)
+
 Lead Generation –  Ad is in the form
+
 App Installs
 
 KPIs, KPIs, KPIs - Must have in order to guage sucess!
 
 ## PO#:
 [PO List](https://paper.dropbox.com/doc/pp-NEW-FB-PO-List-of-Projects-MB68463000--A911gSf7Dv_Jc2naopJevfyGAg-fvnLthDod0XTIkjBVLe5V)
+
 FB invoice is billed the 1st of the month for previous month’s active​
+
 Account is frozen when 1 invoice is overdue
