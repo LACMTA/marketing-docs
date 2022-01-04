@@ -1,13 +1,13 @@
 # TAP 
-**Contacts:** 
-David Sutton (EO)
-Robin O’Hara (EO)
-*Kyle Holland (Sr. Director)
-*Samantha Delgadillo (Principal)
+## Contacts 
+- David Sutton (EO)
+- Robin O’Hara (EO)
+- *Kyle Holland (Sr. Director)
+- *Samantha Delgadillo (Principal)
 
 *Main points of contacts for day to day activities
 
-**About TAP**
+## About TAP
 TAP is a regional revenue collection service that enables riders to load fares onto smartcards (TAP cards) and an app (TAP app) for [26 participating transit systems](https://www.taptogo.net/TAPAgencies), including Metro. You can purchase passes or load stored value (like adding cash) onto your TAP card. TAP manages their own website: taptogo.net. 
 
 Where to purchase TAP cards and load fare: 
@@ -20,7 +20,7 @@ Where to purchase TAP cards and load fare:
 
 Learn more: https://www.taptogo.net/TAPPurchase
 
-**TAP app**
+## TAP app
 Quick Facts: 
 
 - TAP app allows people to purchase virtual TAP cards or load fare from plastic TAP cards onto your phone
@@ -34,7 +34,7 @@ Support materials:
 - Android how-to videos (Spanish)
 - TAP app take one (English/Spanish)
 
-**Commemorative TAP cards**
+## Commemorative TAP cards
 Quick Facts:
 
 - Produced by TAP
@@ -44,6 +44,12 @@ Quick Facts:
 - There is a list of holiday designs we produce every year
 - There is a doc for commemorative TAP card policy/guidelines
 - Can be distributed at TVMs or at events (i.e. line openings, outreach events, etc.)
+
+Planning resources: 
+
+- [Commemorative TAP Card schedule](https://lacmta-my.sharepoint.com/:x:/g/personal/fernandoj_metro_net/EU4DELH7Uz9CvXiDKNkPAJABcrTUJIcHForWRVvggHtVxw?e=1i6B1h)
+- [Commemorative TAP Card Request Log](https://lacmta-my.sharepoint.com/:x:/g/personal/delgadillos_metro_net/ERQaQ18G-p1PqmBnyamtNgEBKx3l4hd5FV20yvqaNgHYqA?e=cIeCLw)
+- [Commemorative TAP Card production schedule](https://lacmta-my.sharepoint.com/:w:/g/personal/palaciosm_metro_net/EZSEiKYfryZNukDPQG-bEvkB3CYJuX-dlZBRxi_A0DKP0w?e=Ab63K2)
 
 Support materials:
 
@@ -82,7 +88,7 @@ Support materials:
     - Nonprofit
 - Fare charts
 
-**TAP card order forms**
+## TAP card order forms
 
 - Regular TAP card order form (internal)
 - Regular TAP card order form (external)
@@ -91,7 +97,7 @@ Support materials:
 - Bulk TAP card order form (internal)
 - Bulk TAP card order form (external)
 
-**TAP Reduced Fare Program**
+## TAP Reduced Fare Program
 Quick Facts: 
 
 - TAP offers reduced fare to certain groups (this is not based on income)
@@ -114,7 +120,7 @@ Support materials:
 - Seniors Application (Spanish)
 - Reduced Fare card carrier
 
-**General TAP customer materials**
+## General TAP customer materials
 
 - TAP User Guide take one (English/Spanish)
 - TAP Vendor Directory take one (English/Spanish)
@@ -132,11 +138,11 @@ Support materials:
             - How will they track/measure the effectiveness of this piece? 
             - Are there other support materials we are responsible for to support this effort?
 
-**Internal TAP materials**
+## Internal TAP materials
 
 - 20-0604: TAP Pocket Guide for Driver Control Console (DCC)
 
-**Permanent signage:** 
+### Permanent signage
 
 - TAP TVM Header
 - Bus farebox decals
@@ -145,19 +151,19 @@ Support materials:
 - BMV decals
 - Fares decals
 
-**Current campaign(s):** 
+### Current campaign(s) 
 Half Off Passes
 
 - Was originally initiated by TAP, but has since been monitored and directed by OCEO. 
 - Promotion ends 7/20/22
 
-**Upcoming campaigns:** 
+### Upcoming campaigns
 
 - Farecapping
     - Will need to revisit all their existing materials and update verbiage regarding passes, possibly include explanation on fare capping model (i.e. in the Metro Rider Guide), etc.
 - Mobility Wallet (led by OEI, but supported by TAP)
 
-**Potential goals for TAP**
+### Potential goals for TAP
 
 - Increase ridership (broad) 
 - Convert cash paying riders to TAP 
