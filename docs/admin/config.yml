@@ -3,7 +3,7 @@ backend:
   repo: lacmta/marketing-docs
   branch: dev
   api_root: https://api.github.com 
-  base_url: https://api.netlify.com
+  base_url: https://metro-oauth-login.herokuapp.com/
   auth_endpoint: auth
   preview_context: github/deployment
 
