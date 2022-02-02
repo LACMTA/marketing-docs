@@ -71,6 +71,7 @@ plugins:
   - table-reader
   - macros
   - tags
+  - awesome-pages
         # tags_file: /assets/tags/tags.md
 
   # - htmlproofer

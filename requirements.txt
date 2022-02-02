@@ -5,3 +5,4 @@ mkdocs-htmlproofer-plugin
 mkdocs-autorefs
 mkdocs-macros-plugin     
 mkdocs-table-reader-plugin
+mkdocs-awesome-pages-plugin
