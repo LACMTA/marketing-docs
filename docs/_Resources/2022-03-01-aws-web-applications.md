@@ -7,5 +7,5 @@ These are the web applications we currently have on AWS:
 
 | Name | AWS Services | Stack | Documentation |
 |------|--------------|-------| ------------- |
-| metro.net | EC2 | WordPress | |
-| api.metro.net | Lightsail | FastAPI, Python | |
+| metro.net | EC2 | WordPress | :link: |
+| api.metro.net | Lightsail | FastAPI, Python | :link: |
