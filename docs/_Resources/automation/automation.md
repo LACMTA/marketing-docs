@@ -1,4 +1,9 @@
-# Automation
+---
+title: Automation
+draft: true
+date: 2022-02-28 16:01
+---
+
 
 Automating processes reduce work overhead.
 
