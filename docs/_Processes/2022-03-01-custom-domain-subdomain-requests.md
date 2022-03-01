@@ -20,3 +20,5 @@ Emails should be sent to:
 | ---- | ----- | --- |
 | Vath Nguon | nguonv@metro.net | internal |
 | Ammar Jilani | jilania@metro.net | external |
+
+Most likely, you will need to request that a CNAME record be created/updated with the Name being the subdomain/domain and the Value being your hosting service.
