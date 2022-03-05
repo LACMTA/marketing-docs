@@ -1,8 +1,16 @@
 ---
+title: Custom Basemaps - How to
+draft: false
+date: 2022-03-04 17:00
+author: Admin
+audience:
+  - New Hires
+purpose: TBD
 tags:
+  - Support
+  - ArcGIS
   - GIS
-  - Design
-  - Maps
+  - Basemaps
 ---
 
 # How to Use the ArcGIS Custom Metro Basemaps (Beta)

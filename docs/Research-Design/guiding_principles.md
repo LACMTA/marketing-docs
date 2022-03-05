@@ -1,8 +1,17 @@
-# Guiding Principles and Values
+---
+title: Guiding Principles and Values
+draft: false
+date: 2022-03-04 12:11
+audience:
+  - New Hires
+purpose: TBD
+tags:
+  - Research and Design
+---
 
-[Design Justice Presentation - 10/15/2021](media/Metro_Design_Justice_10_15_2021.pdf)
+[Design Justice Presentation - 10/15/2021](../media/Metro_Design_Justice_10_15_2021.pdf)
 
-[Implementing Justice Presentation - 10/15/2021](media/Presentation-Implementing_Design_Justice_v2.pdf)
+[Implementing Justice Presentation - 10/15/2021](../media/Presentation-Implementing_Design_Justice_v2.pdf)
 
 _This guide is designed to establish standards across the Metro Digital touchpoints and related teams._
 
