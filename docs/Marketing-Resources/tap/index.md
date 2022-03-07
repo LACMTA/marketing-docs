@@ -2,6 +2,10 @@
 title: Tap Card Information
 draft: false
 author: admin
+date: 2022-03-04 16:00
+audience:
+  - New Hires
+purpose: TBD
 tags:
   - Onboarding
   - Administrative
