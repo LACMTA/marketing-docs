@@ -3,6 +3,11 @@ title: Project Resources
 draft: false
 tags:
   - Project Resources
+date: 2022-03-04 16:00
+author: Admin
+audience:
+  - New Hires
+purpose: TBD
 ---
 
 # Projects

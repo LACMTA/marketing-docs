@@ -1,6 +1,8 @@
 ---
 title: Marketing Resources for Projects
 draft: false
+author: admin
+date: 2022-03-04 16:00
 tags:
   - Onboarding
   - Administrative

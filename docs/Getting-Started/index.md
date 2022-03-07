@@ -1,6 +1,8 @@
 ---
 title: Getting Started
 draft: false
+author: Admin
+date: 2022-03-04 16:00
 tags:
   - Onboarding
   - Administrative
