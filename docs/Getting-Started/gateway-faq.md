@@ -2,6 +2,10 @@
 title: Gateway FAQ
 draft: false
 author: Melissa Rosen
+date: 2022-03-04 12:11
+audience:
+  - New Hires
+purpose: TBD
 tags:
   - Onboarding
   - Administrative
