@@ -35,13 +35,12 @@ publish_mode: editorial_workflow
 
 
 collections: # A list of collections the CMS should be able to edit
-  - name: 'design-resources' # Used in routes, ie.: /admin/collections/:slug/edit
-    label: 'Design Resources' # Used in the UI
-    label_singular: 'Design Resource' # Used in the UI, ie: "New Post"
+  - name: 'research-design' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'Research Design' # Used in the UI
+    label_singular: 'Research Design' # Used in the UI, ie: "New Post"
     description: >
-      The description is a great place for tone setting, high level information, and editing
-      guidelines that are specific to a collection.
-    folder: 'docs/Design-Resources'
+      R&D! WE COOL! To help inform updates and new projects.
+    folder: 'docs/Research-Design'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
     create: true # Allow users to create new documents in this collection
@@ -82,13 +81,12 @@ collections: # A list of collections the CMS should be able to edit
       - { label: 'Content', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
     
     
-  - name: 'training-guides' # Used in routes, ie.: /admin/collections/:slug/edit
-    label: 'Training Guides' # Used in the UI
-    label_singular: 'Training Guide' # Used in the UI, ie: "New Post"
+  - name: 'support' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'Support' # Used in the UI
+    label_singular: 'Support' # Used in the UI, ie: "New Post"
     description: >
-      The description is a great place for tone setting, high level information, and editing
-      guidelines that are specific to a collection.
-    folder: 'docs/Training-Guides'
+      We support you! :)
+    folder: 'docs/Support'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
     create: true # Allow users to create new documents in this collection
@@ -126,13 +124,12 @@ collections: # A list of collections the CMS should be able to edit
       - { label: 'Purpose', name: 'purpose', widget: 'string', hint: 'How would this content be used? Why is it important?' }
       - { label: 'Tags', name: 'tags', widget: 'list', summary: '{{fields.name}}', field: {label: 'Name', name: 'name', widget: 'string'}}
       - { label: 'Content', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
-  - name: 'proj-mgmt-resources' # Used in routes, ie.: /admin/collections/:slug/edit
-    label: 'Project Management Resources' # Used in the UI
-    label_singular: 'Project Management Resource' # Used in the UI, ie: "New Post"
+  - name: 'marketing-resources' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'Marketing Resources' # Used in the UI
+    label_singular: 'Marketing Resource' # Used in the UI, ie: "New Post"
     description: >
-      The description is a great place for tone setting, high level information, and editing
-      guidelines that are specific to a collection.
-    folder: 'docs/Proj-Mgmt-Resources'
+      Marketing resources! Description goes here.
+    folder: 'docs/Marketing-Resources'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
     create: true # Allow users to create new documents in this collection
@@ -170,13 +167,13 @@ collections: # A list of collections the CMS should be able to edit
       - { label: 'Purpose', name: 'purpose', widget: 'string', hint: 'How would this content be used? Why is it important?' }
       - { label: 'Tags', name: 'tags', widget: 'list', summary: '{{fields.name}}', field: {label: 'Name', name: 'name', widget: 'string'}}
       - { label: 'Content', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
-  - name: 'admin-resources' # Used in routes, ie.: /admin/collections/:slug/edit
-    label: 'Admin Resources' # Used in the UI
-    label_singular: 'Admin Resource' # Used in the UI, ie: "New Post"
+      
+  - name: 'getting-started' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'Getting Started' # Used in the UI
+    label_singular: 'Getting Started post' # Used in the UI, ie: "New Post"
     description: >
-      The description is a great place for tone setting, high level information, and editing
-      guidelines that are specific to a collection.
-    folder: 'docs/Admin-Resources'
+      Documentation and links that would be helpful for new hires or new contractors.
+    folder: 'docs/Getting-Started'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
     create: true # Allow users to create new documents in this collection
@@ -215,13 +212,12 @@ collections: # A list of collections the CMS should be able to edit
       - { label: 'Purpose', name: 'purpose', widget: 'string', hint: 'How would this content be used? Why is it important?' }
       - { label: 'Tags', name: 'tags', widget: 'list', summary: '{{fields.name}}', field: {label: 'Name', name: 'name', widget: 'string'}}
       - { label: 'Content', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
-  - name: 'projects' # Used in routes, ie.: /admin/collections/:slug/edit
-    label: 'Projects' # Used in the UI
-    label_singular: 'Project' # Used in the UI, ie: "New Post"
+  - name: 'project-resources' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'Project Resources' # Used in the UI
+    label_singular: 'Project resource' # Used in the UI, ie: "New Post"
     description: >
-      The description is a great place for tone setting, high level information, and editing
-      guidelines that are specific to a collection.
-    folder: 'docs/Projects'
+      For project resources.
+    folder: 'docs/Marketing-Resources/Project-Resources'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
     create: true # Allow users to create new documents in this collection
@@ -260,94 +256,3 @@ collections: # A list of collections the CMS should be able to edit
       - { label: 'Purpose', name: 'purpose', widget: 'string', hint: 'How would this content be used? Why is it important?' }
       - { label: 'Tags', name: 'tags', widget: 'list', summary: '{{fields.name}}', field: {label: 'Name', name: 'name', widget: 'string'}}
       - { label: 'Content', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
-  - name: 'processes' # Used in routes, ie.: /admin/collections/:slug/edit
-    label: 'Processes' # Used in the UI
-    label_singular: 'Process' # Used in the UI, ie: "New Post"
-    description: >
-      The description is a great place for tone setting, high level information, and editing
-      guidelines that are specific to a collection.
-    folder: 'docs/_Processes'
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
-    create: true # Allow users to create new documents in this collection
-    nested:
-      depth: 100 # max depth to show in the collection tree
-      summary: '{{title}}'
-    view_filters:
-      - label: Posts With Index
-        field: title
-        pattern: 'This is post #'
-      - label: Posts Without Index
-        field: title
-        pattern: front matter post
-      - label: Drafts
-        field: draft
-        pattern: true
-    view_groups:
-      - label: Year
-        field: date
-        pattern: \d{4}
-      - label: Drafts
-        field: draft
-    fields: # The fields each document in this collection have
-      - { label: 'Title', name: 'title', widget: 'string', tagname: 'h1' }
-      - { label: 'Author', name: 'author', widget: 'string',  default: '{{field.author}}'}
-      - { label: 'Draft', name: 'draft', widget: 'boolean', default: true }
-      - {
-          label: 'Publish Date',
-          name: 'date',
-          widget: 'datetime',
-          date_format: 'YYYY-MM-DD',
-          time_format: 'HH:mm',
-          format: 'YYYY-MM-DD HH:mm',
-        }
-      - { label: 'Audience', name: 'audience', widget: 'select', hint: 'Who is this content for?', options: ['Contractors', 'New Hires', 'Marketing', 'Design', 'Digital', 'Managers'], multiple: true}
-      - { label: 'Purpose', name: 'purpose', widget: 'string', hint: 'How would this content be used? Why is it important?' }
-      - { label: 'Tags', name: 'tags', widget: 'list', summary: '{{fields.name}}', field: {label: 'Name', name: 'name', widget: 'string'}}
-      - { label: 'Content', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
-  - name: 'resources' # Used in routes, ie.: /admin/collections/:slug/edit
-    label: 'Resources' # Used in the UI
-    label_singular: 'Resource' # Used in the UI, ie: "New Post"
-    description: >
-      A resource is something that people at Metro use.
-    folder: 'docs/_Resources'
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
-    create: true # Allow users to create new documents in this collection
-    nested:
-      depth: 100 # max depth to show in the collection tree
-      summary: '{{title}}'
-    view_filters:
-      - label: Posts With Index
-        field: title
-        pattern: 'This is post #'
-      - label: Posts Without Index
-        field: title
-        pattern: front matter post
-      - label: Drafts
-        field: draft
-        pattern: true
-    view_groups:
-      - label: Year
-        field: date
-        pattern: \d{4}
-      - label: Drafts
-        field: draft
-    fields: # The fields each document in this collection have
-      - { label: 'Title', name: 'title', widget: 'string', tagname: 'h1' }
-      - { label: 'Draft', name: 'draft', widget: 'boolean', default: false }
-      - {
-          label: 'Publish Date',
-          name: 'date',
-          widget: 'datetime',
-          date_format: 'YYYY-MM-DD',
-          time_format: 'HH:mm',
-          format: 'YYYY-MM-DD HH:mm',
-        }
-      - label: 'Cover Image'
-        name: 'image'
-        widget: 'image'
-        required: false
-        tagname: ''
-
-      - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
