@@ -47,7 +47,7 @@ collections: # A list of collections the CMS should be able to edit
     nested:
       depth: 100 # max depth to show in the collection tree
       summary: '{{title}}'
-    meta: { path: { widget: string, label: 'Path', index_file: 'index' } } 
+    # meta: { path: { widget: string, label: 'Path', index_file: 'index' } } 
     view_filters:
       - label: Posts With Index
         field: title
