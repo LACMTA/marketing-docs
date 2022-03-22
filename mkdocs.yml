@@ -26,7 +26,7 @@ theme:
       - navigation.tabs
       - content.code.annotate
       - search.highlight
-      - toc.integrate
+      # - toc.integrate
       - navigation.indexes
       - navigation.top
       - search.suggest      
