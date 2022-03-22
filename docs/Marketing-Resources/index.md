@@ -16,7 +16,7 @@ Here you can find information needed to do tasks that normally come up when work
 
 ||link|
 |---|----|
-|TAP card information|[:link:](/TAP/index.md)|
+|TAP card information|[:link:](/tap/index.md)|
 |Project Resources|[:link:](/Project-Resources/index.md)|
 |Sign shop process|[:link:](sign-shop.md)|
 |Ordering promotional items|[:link:](promo-items.md)|

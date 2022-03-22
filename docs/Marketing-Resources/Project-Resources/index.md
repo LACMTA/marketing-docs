@@ -18,11 +18,11 @@ Here you can find information about Marketing Projects.
 
 ||link|
 |---|----|
-|Project names, consultants|[:link:](project-consultants.md)|
-|Project Phases|[:link:](project-phases.md)|
-|Messaging Matrix|[:link:](messaging-matrix.md)|
-|Environmental Review Public Engagement Process|[:link:](environmental-review-public-engagement-process.md)|
-|Projects ArcGIS Online|[:link:](projects-arcgis.md)|
-|Program Hub|[:link:](program-hub.md)|
-|First / Last Mile|[:link:](Project-Resources/first-last-mile.md)|
-|Relational Diagram|[:link:](relational-diagram.md)|
+|Project names, consultants|[:link:](/project-consultants/index.md)|
+|Project Phases|[:link:](/project-phases/index.md)|
+|Messaging Matrix|[:link:](/messaging-matrix/index.md)|
+|Environmental Review Public Engagement Process|[:link:](/environmental-review-public-engagement-process/index.md)|
+|Projects ArcGIS Online|[:link:](/projects-arcgis/index.md)|
+|Program Hub|[:link:](/program-hub/index.md)|
+|First / Last Mile|[:link:](/first-last-mile/index.md)|
+|Relational Diagram|[:link:](/relational-diagram/index.md)|
