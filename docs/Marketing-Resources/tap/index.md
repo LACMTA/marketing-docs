@@ -16,6 +16,6 @@ tags:
 
 |Pages|link|
 |---|----|
-|TAP card request process|[:link:](tap-card-request-process.md)|
-|TAP card request form|[:link:](tap-card-request-form.md)|
-|TAP card TVM List Locations|[:link:](tap-card-tvm-list-locations.md)|
+|TAP card request process|[:link:](/tap-card-request-process/index.md)|
+|TAP card request form|[:link:](/tap-card-request-form/index.md)|
+|TAP card TVM List Locations|[:link:](/tap-card-tvm-list-locations/index.md)|

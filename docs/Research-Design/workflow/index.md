@@ -16,6 +16,6 @@ The page lists the workflows related to day to day work.
 
 |Page|Link|
 |---|----|
-|Digital Workflow|[:link:](digital-workflow.md)|
-|Marketing Workflow|[:link:](marketing-workflow/index.md)|
-|Production Workflow|[:link:](production-workflow.md)|
+|Digital Workflow|[:link:](/digital-services-workflow/index.md)|
+|Marketing Workflow|[:link:](/marketing-workflow/index.md)|
+|Production Workflow|[:link:](/production-workflow/index.md)|

@@ -7,11 +7,10 @@ tags:
   - Onboarding
   - Administrative
 ---
-# How to get started
 
+# How To Get Started
 
 Here you can find information for new hires and general administrative processes that you may not do regularly.
-
 
 This site is designed to orient people working with Metro's Marketing Division on [projects](../projects/index.md), [processes](../processes/index.md), and [software/services](../software/index.md).
 
@@ -60,4 +59,3 @@ The following resources are useful for brand and design guidelines:
 |General Service request|[:link:](general-service-request.md)|
 |Marketing Partners|[:link:](marketing-partners.md)|
 |Metro Fare Table|[:link:](metro-fares.md)|
-
