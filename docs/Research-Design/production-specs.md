@@ -16,8 +16,8 @@ tags:
 - If you add updated spec information - feel free to delete any old/outdated information.
 - Add any new content in **ALPHA** order.
 ----------
-# Digital
-## E-Blast
+## Digital
+### E-Blast
 
 Headers they go at the top of e-mail blasts sent from Metro or partners. No Metro logo necessary.
 
@@ -34,7 +34,7 @@ Headers they go at the top of e-mail blasts sent from Metro or partners. No Metr
 
 - JPEG, PNG, GIF optimized for web
 - File size – 50k or less
-## Metro.net Web Assets
+### Metro.net Web Assets
 
 All web assets should be RGB color format.
 
@@ -58,7 +58,7 @@ All web assets should be RGB color format.
 
 Hero images needs all three image sizes.
 
-## TPIS Ads
+### TPIS Ads
 
 Screens that are hanging within all Metro Rail stations. Still images only. No video.
 
@@ -76,7 +76,7 @@ Screens that are hanging within all Metro Rail stations. Still images only. No v
 - no video
 
 
-## USG Video Wall
+### USG Video Wall
 
 Video screen located at Metro HQ next to the board room. Assets may be placed on one screen or used as a takeover and placed on all screens at once. Still images and videos are possible, but no audio will be heard.
 
@@ -100,7 +100,7 @@ Video screen located at Metro HQ next to the board room. Assets may be placed on
 
 - JPG, PNG, TIFF
 - MP4
-## USG Viewsonic
+### USG Viewsonic
 
 Video screen located at Metro HQ closest to the cafeteria. Still images and videos are possible, but no audio will be heard.
 
@@ -118,8 +118,8 @@ Video screen located at Metro HQ closest to the cafeteria. Still images and vide
 - JPG, PNG, TIFF
 - MP4
 - MOV
-# Onboard and In-Station
-## 2-Sheets
+## Onboard and In-Station
+### 2-Sheets
 
 Printed posters that are placed on walls within Metro Rail stations.
 
@@ -140,7 +140,7 @@ Printed posters that are placed on walls within Metro Rail stations.
 - Illustrator outlined fonts, embedded images
 
 
-## Backlits (Inklink)
+### Backlits (Inklink)
 
 **COLOR**
 CMYK
@@ -173,7 +173,7 @@ Build file to final trim size and do NOT provide bleed
 
 - Always provide “for_viewing” PDF for reference and a color print out
 - Indicate final output size and % scale
-## King Ads
+### King Ads
 
 King Ads are the same dimensions, whether they are placed on a Bus or Rail. But the distinction should still be made when naming files and submitting for final production, as they are produced by different vendors.
 
@@ -197,7 +197,7 @@ CMYK Only
 - InDesign with Packaged Fonts
 
 
-## Rail Poster
+### Rail Poster
 
 **NEW rail poster size as of 4/2018:**
 
@@ -209,7 +209,7 @@ CMYK Only
 - Final trim size: heavy rail version: 21”w x 22.375”h
 
 
-## Tail Ads
+### Tail Ads
 
 Tail Ads go on the back of all Metro Buses. The bus type does not matter. All buses use the same template, and are then trimmed down to fit each bus type when being placed on the bus. This is why the Live Area spec is very important. Anything outside of this area could be cut off depending on the bus.
 
@@ -241,7 +241,7 @@ Production will send files to vendor. Place final files on the server in a folde
 
 
 
-## Train Wrap
+### Train Wrap
 
 There are three types of train wraps we have access to within our fleet. The first thing you need to know before beginning designing a train wrap is finding out which train type will be wrapped. All rail lines use fully wrapped trains, minus the B (Red) and D (Purple) Lines.
 
@@ -255,8 +255,8 @@ There are three types of train wraps we have access to within our fleet. The fir
 [P-3010](https://www.dropbox.com/s/eunpgqm91weevlo/LA-3010-Train-FInal.pdf?dl=0)
 
 
-# Outdoor
-## Billboards (Clearchannel)
+## Outdoor
+### Billboards (Clearchannel)
 
 [CLEAR CHANNEL – POSTER Spec Sheet](https://www.dropbox.com/s/p1mtvv9z70wllu7/CLEAR%20CHANNEL_posters.pdf?dl=0)
 
@@ -278,12 +278,12 @@ There are three types of train wraps we have access to within our fleet. The fir
 - Convert Fonts to Outlines
 
 
-## Jr. Poster
+### Jr. Poster
 
 [LAMAR – JR POSTER Spec Sheet](https://www.dropbox.com/s/pfzkqypx5xryu76/LAMAR_jrposter.pdf?dl=0)
 
 
-## Transit Shelter
+### Transit Shelter
 
 **SIZES**
 
@@ -291,18 +291,18 @@ There are three types of train wraps we have access to within our fleet. The fir
 - Transit Shelter: Clear Channel: 48″ W x 69″ H
 
 
-# Print Shop
+## Print Shop
 
 *Print specs forms are only needed for offset and digital press projects.*
 *No print specs forms needed for: epson, paperboard, falconboard or coroplast.*
 
-## Decals
+### Decals
 - maximum print area width for the decal machine is 50”
 - most are die-cut to a die
 - if no die-cut, then add bleed and crop marks
 
 
-## Digital Press Specs
+### Digital Press Specs
 
 **SIZE**
 
@@ -338,7 +338,7 @@ There are three types of train wraps we have access to within our fleet. The fir
 - Would like at least 3 working days, depending on quantity.
 
 
-## Multi-Page Books
+### Multi-Page Books
 
 **Saddle-stitch books**
 
@@ -360,7 +360,7 @@ There are three types of train wraps we have access to within our fleet. The fir
 - make sure to design the spine
 ****
 
-## Offset Press Specs
+### Offset Press Specs
 
 **PRESS SHEET SIZES/COLOR DETAILS**
 **Heidelberg Speedmaster SM 74 (5-COLOR)**
@@ -406,7 +406,7 @@ There are three types of train wraps we have access to within our fleet. The fir
 - 3 panel TK1 (100# Sterling Coated Dull text) = 2″ per 2 sides
 
 
-## Paper Stocks by Project Type
+### Paper Stocks by Project Type
 - no need to indicate “C2S” (coated 2 sides) for text weights since it is only offered coated both sides
 - “C2S” or C1S” should be used when ordering cardstock, as used for 1 panel take ones, car cards, postcards and rail posters
 - **One panel take one:** Carolina 10pt cover, C2S
@@ -425,7 +425,7 @@ There are three types of train wraps we have access to within our fleet. The fir
 - **TVM Header Inserts:** Carolina 10pt cover, C1S – Overall Gloss Varnish on one side
 
 
-## Polyester Material
+### Polyester Material
 
 Mohawk Synthetic Performance Polyester 5 ML and 10ML - for use on digital press
 
@@ -435,7 +435,7 @@ Mohawk Synthetic Performance Polyester 5 ML and 10ML - for use on digital press
 - 2 weights: 5ML (similar to 100# text) and 10 ML (similar to 10 PT Carolina)
 - Runs on digital press
 - Can print 2- sided
-## Poster_Coroplast
+### Poster_Coroplast
 
 Waterproof posters that can be printed 1 or 2-sided.
 
@@ -452,7 +452,7 @@ Waterproof posters that can be printed 1 or 2-sided.
 - PDF with crops and bleed indicated (.125” bleed on all sides”)
 
 
-## Poster_Falconboard
+### Poster_Falconboard
 
 Posters that can be printed 1 or 2-sided.
 
@@ -469,7 +469,7 @@ Posters that can be printed 1 or 2-sided.
 - PDF with crops and bleed indicated (.125” bleed on all sides”)
 
 
-## Poster_Paperboard
+### Poster_Paperboard
 
 24 PT and 48 PT poster that can be printed 1 or 2-sided.
 
@@ -486,7 +486,7 @@ Posters that can be printed 1 or 2-sided.
 - PDF with crops and bleed indicated (.125” bleed on all sides”)
 
 
-## Take Ones (TK-1)
+### Take Ones (TK-1)
 
 **Multi-Panel Take Ones**
 For multi-panel take ones, the panels need to be re-sized to account for roll-folding:
@@ -504,12 +504,12 @@ see PDF in Resources/Templates which contains specific measurements and a visual
 
 
 
-# QR Code Generator
+## QR Code Generator
 
 [Generate QR Codes in InDesign](https://helpx.adobe.com/mt/indesign/using/generate-qr-code.html)
 
-# Sign Shop
-## Metro Sign Shop - Banners and Signs
+## Sign Shop
+### Metro Sign Shop - Banners and Signs
 
 Victor can print vinyl banners and put grommets through them too. Note: Only gold grommets available at this time
 **SPECS**
@@ -558,12 +558,12 @@ Victor can print vinyl banners and put grommets through them too. Note: Only gol
 - A completed M70 form for fabrication needs to be submitted (by AE) to Facilities before Sign Shop can begin work on the request. Note: Kim Bueno should be the one to submit the additional M70 form for installation, if applicable to the project.
 - The Sign Shop does not deliver. Victor will let us know when the job is completed and we need to make arrangements for P/U across the street.
 - Metro Sign Shop is located: CMF, Bldg. 6, 490 Bauchet St., Los Angeles, CA 90012 (across the street next to the sheriff offices, by the prison)
-# Specialty and Apparel
-## Belt Buckles
+## Specialty and Apparel
+### Belt Buckles
 
 Visit [Ace Buckles](http://www.acebuckles.com/) for different production techniques.
 
-## Lapel Pins
+### Lapel Pins
 
 http://www.signaturepins.com (formerly LapelPinsRUs)
 Caryn Smith
@@ -573,7 +573,7 @@ Orlando, FL 32820
 1-800-352-9217 Toll Free Fax
 
 
-## Standing Banners
+### Standing Banners
 
 **Paradigm Display Solutions**
 [Expo Banner Stand](https://www.dropbox.com/s/4vclm5ddfrrn4we/Paradigm_expobannerstand.pdf?dl=0)
@@ -584,11 +584,11 @@ Orlando, FL 32820
 [Skyline Spec Sheet](https://www.dropbox.com/s/fxpw7joode1hxfh/Skyline_spec_sheet%20121710.pdf?dl=0)
 
 
-## T-shirts and Polo Shirts
+### T-shirts and Polo Shirts
 
-**T-shirts**
+#### **T-shirts**
 
-- # of imprints and # of colors is either up to you or if client has budget max
+- Number of imprints and number of colors is either up to you or if client has budget max
 - Screen print is better than embroidery
 - this is the shirt we ordered for US75 that everyone liked
     - only goes to 4XL, not sure if that is a problem for client
@@ -600,7 +600,8 @@ Orlando, FL 32820
 
  
 
-    **Polo Shirts**
+#### **Polo Shirts**
+
 - embroidery is better than screen printing
 - recommend either small breast plate design and/or sleeve imprint
 - both are small areas so design should be simple b/c embroidery
@@ -608,12 +609,12 @@ Orlando, FL 32820
     - http://www.sanmar.com/sanmar-servlets/CatalogSearch?id=259&prodimage=&swatch=Yellow&top=Y
 
 
-## Window Clings
+### Window Clings
 
 add 1/4″ bleed and crop marks
 
-# TAP
-# Commemorative TAP Cards
+## TAP
+### Commemorative TAP Cards
 
 *(OR refer to the PDF on the server found under:*
 *Resources > TAP > 16-0220_Commemorative_TAP_card_Template_eh)* 
@@ -634,8 +635,8 @@ Submit all four files to TAP.
 
 
 
-# Uploading Instructions
-## to Dual Graphics
+## Uploading Instructions
+### to Dual Graphics
 1. Go to [www.dualgraphics.com](https://www.dualgraphics.com/)
 2. Click on right side "Sending us a file? Upload it here."
 3. Fill in your email address for Anonymous login.
@@ -645,7 +646,7 @@ Submit all four files to TAP.
     - Job Description: USE THE TASK CODE PROVIDED BY ROB/CC and include Metro job number and title if possible
     - Dual Contact: Arlene Nunez
 5. Select files and begin upload
-## to Intersection
+### to Intersection
 
 **Production Team will be uploading final files for to Intersection for production.**
 
@@ -671,7 +672,7 @@ Select “Print Media”
 Drag and drop your files and CLICK UPLOAD button.
 
 
-## to Outfront Media
+### to Outfront Media
 
 **Production Team will be uploading final files for to Outfront for production.**
 
@@ -691,12 +692,12 @@ Fill out the form fields as follows:
 - Message: (PRODUCTION WILL ADVISE – job details like size, qty, posting dates go here)
 
 
-# Vinyl Banners
-## Vinyl Banner Types
+## Vinyl Banners
+### Vinyl Banner Types
 
 as of May 2015
 
-**CUSTOM VINYL BANNERS**
+#### **CUSTOM VINYL BANNERS**
 These are vinyl banner materials with no frames.
 
 - **Dimensions**
@@ -712,7 +713,7 @@ These are vinyl banner materials with no frames.
     - Outside Printer: Banners taller than 62” high – AE to determine who is paying for before opening outside produced banners + install jobs.
     - AE should discuss with client, Production and Promotions/Events teams the details of banner installation (i.e., team of staff? Facilities Maintenance? Outside Vendor?) each and every time a job is opened.
 
-**ROLL-UP BANNERS**
+#### **ROLL-UP BANNERS**
 The banner artwork comes with the frame as one unit. The artwork is NOT interchangeable. The banner can be made of vinyl or another material. These banners can’t include wind slit and are not weather-proof so should be used indoor only. They come with a zip case.
 
 - **Dimensions**
@@ -726,7 +727,7 @@ The banner artwork comes with the frame as one unit. The artwork is NOT intercha
 - **Misc**
     - If client is keeping the roll-up banners, AE should recommend the client purchase 30lb sand bags at www.sandbagstore.com/.
 
-**ADJUSTABLE STAND VINYL BANNERS**
+#### **ADJUSTABLE STAND VINYL BANNERS**
 The banner artwork comes with the frame as one unit; however, the artwork is INTERCHANGEABLE, so we can create new artwork and swap the creative out.
 
 - **Dimensions**
@@ -746,8 +747,7 @@ The banner artwork comes with the frame as one unit; however, the artwork is INT
     - To ground the banner, fill half to full of the base with sand. Metro recommends filling it hallway with sand. You can purchase a bag of play sand at http://www.homedepot.com
     - If client is keeping the roll-up banners, AE should recommend the client purchase 30lb sand bags at www.sandbagstore.com/.
 
-
-## Vinyl Banner Specs (Metro Print Shop)
+### Vinyl Banner Specs (Metro Print Shop)
 
 **CUSTOM VINYL BANNER**
 
@@ -788,8 +788,8 @@ The banner artwork comes with the frame as one unit; however, the artwork is INT
 - [Materials list available](http://www.epson.com/cgi-bin/Store/jsp/Pro/all-epson-professional-imaging-media.do) from Epson for our banner printer
 
 
-# Production Toolkit Links
-## Production
+## Production Toolkit Links
+### Production
 
 I.) Tool Kit (Production)
 
