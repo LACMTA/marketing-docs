@@ -24,7 +24,6 @@ Headers they go at the top of e-mail blasts sent from Metro or partners. No Metr
 **Size**
 
 - 650px x 200px
-- 
 
 **Color**
 
@@ -34,6 +33,7 @@ Headers they go at the top of e-mail blasts sent from Metro or partners. No Metr
 
 - JPEG, PNG, GIF optimized for web
 - File size – 50k or less
+
 ### Metro.net Web Assets
 
 All web assets should be RGB color format.
