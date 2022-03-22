@@ -26,7 +26,7 @@ theme:
       - navigation.tabs
       - content.code.annotate
       - search.highlight
-      # - toc.integrate
+      - toc.follow
       - navigation.indexes
       - navigation.top
       - search.suggest      
@@ -46,7 +46,7 @@ markdown_extensions:
     - meta
     - toc:
         permalink: True
-        toc_depth: 2
+        toc_depth: 3
     - sane_lists
     - admonition
     - footnotes
