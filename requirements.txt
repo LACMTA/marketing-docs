@@ -1,8 +1,9 @@
 git+https://github.com/LACMTA/mkdocs-material-insiders.git
+jinja <= 3.0.0
 mkdocs-git-revision-date-plugin
 mkdocs-encryptcontent-plugin
 mkdocs-htmlproofer-plugin
 mkdocs-autorefs
-mkdocs-macros-plugin     
+mkdocs-macros-plugin
 mkdocs-table-reader-plugin
 mkdocs-awesome-pages-plugin
