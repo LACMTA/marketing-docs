@@ -4,7 +4,8 @@ draft: false
 date: 2022-03-04 12:11
 audience:
   - New Hires
-purpose: TBD
+purpose: To provide high-level brand guidelines and guardrails for visual
+  designers, writers, photographers, etc.
 tags:
   - Research and Design
 ---
