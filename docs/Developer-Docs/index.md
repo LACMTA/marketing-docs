@@ -14,7 +14,7 @@ tags:
 Inspired by the [VA Platform documentation site](https://depo-platform-documentation.scrollhelp.site/).
 
 1. Getting Started
-    1. Tools Catalog - Analytics and Insights, Communication and collaboration, Design and research, Development, Third-party, Monitoring, Testing, 
+    1. Tools Catalog - Analytics and Insights, Communication and collaboration, Design and research, Development, Third-party, Monitoring, Testing
     2. Request Access to required tools.
 2. Infrastructure
     1. Principles
