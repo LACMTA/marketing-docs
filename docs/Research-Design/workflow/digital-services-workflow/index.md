@@ -13,7 +13,7 @@ Use our resources and guides to help you as you design digital services for Metr
 
 ## Requesting a digital project
 
-1. Make a copy and fill out the project brief
+1. Make a copy and fill out the [project brief](project-brief.md)
 2. Send the brief to [ChaparroA@metro.net](mailto:ChaparroA@metro.net)
 
 ## Contents
