@@ -17,10 +17,8 @@ Use our resources and guides to help you as you design digital services for Metr
 
 |Page|Link|
 |---|----|
-|Digital Principles and Values|[:link:](guiding-principles.md)|
 |Production Specs|[:link:](production-specs.md)|
 |Signage Environmental|[:link:](signage-environmental.md)|
 |Brand.metro.net|[:link:](brand-metro.md)|
 |Workflow|[:link:](workflow/index.md)|
 |Portfolio Keywords|[:link:](portfolio-keywords.md)|
-|Digital Asset Management |[:link:](dam.md)|
