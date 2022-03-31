@@ -12,6 +12,6 @@ tags:
 
 For digital projects at Metro, the following project brief is required:
 
-- [Digital Project Brief](https://docs.google.com/document/d/1VeCsv2JO7rgdYQshNjy0Sf4fUcacXtzxkInfsU_SGbc/edit)
+- [Digital Project Brief](https://docs.google.com/document/d/1VeCsv2JO7rgdYQshNjy0Sf4fUcacXtzxkInfsU_SGbc/copy)
 
 Project briefs are evaluated before any digital project is allocated developer resources.
