@@ -9,3 +9,5 @@ purpose: TBD
 tags:
   - Support
 ---
+
+[Active Campaign Info](./media/active_campaign_info.pdf)
