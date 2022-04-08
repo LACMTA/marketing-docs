@@ -14,14 +14,15 @@ tags:
 Inspired by the [VA Platform documentation site](https://depo-platform-documentation.scrollhelp.site/).
 
 1. Getting Started
-    1. Tools Catalog - Analytics and Insights, Communication and collaboration, Design and research, Development, Third-party, Monitoring, Testing, 
+    1. Tools Catalog - Analytics and Insights, Communication and collaboration, Design and research, Development, Third-party, Monitoring, Testing
     2. Request Access to required tools.
 2. Infrastructure
-    1. GitHub repositories
-    2. Environments
-    3. Secret Storage and Management
-    4. Automations
-    5. Workflow and Deployment process
+    1. Principles
+    2. GitHub repositories
+    3. Environments
+    4. Secret Storage and Management
+    5. Automations
+    6. Workflow and Deployment process
 3. Frontend
     1. Stack
     2. Design System
@@ -33,4 +34,5 @@ Inspired by the [VA Platform documentation site](https://depo-platform-documenta
 7. Testing
 8. Monitoring
 9. Projects
+   - Marketing Documentation
 10. Changelog
