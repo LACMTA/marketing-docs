@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Getting Started Overview
 draft: false
 author: Admin
 date: 2022-03-04 16:00
@@ -7,8 +7,6 @@ tags:
   - Onboarding
   - Administrative
 ---
-
-# How To Get Started
 
 Here you can find information for new hires and general administrative processes that you may not do regularly.
 

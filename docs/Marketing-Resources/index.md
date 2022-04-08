@@ -1,6 +1,5 @@
 ---
-title: Marketing Resources for Projects
-draft: false
+title: Marketing Resources Overview
 author: admin
 date: 2022-03-04 16:00
 tags:
