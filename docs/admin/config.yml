@@ -39,7 +39,7 @@ collections: # A list of collections the CMS should be able to edit
     label: 'Research Design' # Used in the UI
     label_singular: 'Research Design' # Used in the UI, ie: "New Post"
     description: >
-      R&D! WE COOL! To help inform updates and new projects.
+      Research and Design as it relates to the customer experience.! To help inform updates and new projects.
     folder: 'docs/Research-Design'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
@@ -218,6 +218,50 @@ collections: # A list of collections the CMS should be able to edit
     description: >
       Documentation relevant for digital services development projects.
     folder: 'docs/Developer-Docs'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
+    create: true # Allow users to create new documents in this collection
+    nested:
+      depth: 100 # max depth to show in the collection tree
+      summary: '{{title}}'
+    view_filters:
+      - label: Posts With Index
+        field: title
+        pattern: 'This is post #'
+      - label: Posts Without Index
+        field: title
+        pattern: front matter post
+      - label: Drafts
+        field: draft
+        pattern: true
+    view_groups:
+      - label: Year
+        field: date
+        pattern: \d{4}
+      - label: Drafts
+        field: draft
+    fields: # The fields each document in this collection have
+      - { label: 'Title', name: 'title', widget: 'string', tagname: 'h1' }
+      - { label: 'Author', name: 'author', widget: 'string',  default: {{field.author}}}
+      - { label: 'Draft', name: 'draft', widget: 'boolean', default: true }
+      - {
+          label: 'Publish Date',
+          name: 'date',
+          widget: 'datetime',
+          date_format: 'YYYY-MM-DD',
+          time_format: 'HH:mm',
+          format: 'YYYY-MM-DD HH:mm',
+        }
+      - { label: 'Audience', name: 'audience', widget: 'select', hint: 'Who is this content for?', options: ['Contractors', 'New Hires', 'Marketing', 'Design', 'Digital', 'Managers'], multiple: true}
+      - { label: 'Purpose', name: 'purpose', widget: 'string', hint: 'How would this content be used? Why is it important?' }
+      - { label: 'Tags', name: 'tags', widget: 'list', summary: '{{fields.name}}', field: {label: 'Name', name: 'name', widget: 'string'}}
+      - { label: 'Content', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
+  - name: 'production-toolkit'
+    label: 'Production Toolkit'
+    label_singular: 'Toolkit item'
+    description: >
+      Documentation relevant for production toolkit to for signage and print projects.
+    folder: 'docs/Production-Toolkit'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
     create: true # Allow users to create new documents in this collection
