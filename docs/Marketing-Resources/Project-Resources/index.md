@@ -1,5 +1,5 @@
 ---
-title: Project Resources
+title: Project Resources Overview
 draft: false
 tags:
   - Project Resources
@@ -9,8 +9,6 @@ audience:
   - New Hires
 purpose: TBD
 ---
-
-# Projects
 
 Here you can find information about Marketing Projects.
 
