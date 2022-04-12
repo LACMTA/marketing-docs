@@ -30,6 +30,7 @@ jobs:
           git fetch 
           git checkout $TARGET_BRANCH       
           git checkout ${GITHUB_REF##*/} -- $files
+          git merge dev
           git add .
           git diff-index --quiet HEAD ||  git commit -am "deploy files"
           git push origin $TARGET_BRANCH # push to remote branch
