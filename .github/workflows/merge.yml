@@ -22,7 +22,7 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v1
-
+    - run: git config --global --add safe.directory /github/workspace
     - name: Nightly Merge
       uses: robotology/gh-action-nightly-merge@v1.3.2
       with:
