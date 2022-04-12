@@ -8,6 +8,7 @@ audience:
 purpose: TBD
 tags:
   - Marking Resources
+  - CIPS Kiosk
 ---
 
 ## CIPS kiosk screens instructions
