@@ -21,14 +21,17 @@ jobs:
 
     steps:
     - name: Checkout
-      uses: actions/checkout@v1
-    - name: Nightly Merge
-      uses: robotology/gh-action-nightly-merge@v1.3.2
-      run: git config --global --add safe.directory /github/workspace
-      with:
-        stable_branch: 'dev'
-        development_branch: 'main'
-        allow_ff: false
-        allow_forks: true
+      uses: actions/checkout@v2
       env:
-        GITHUB_TOKEN: ${{ secrets.METRO_KEY }}
+        SRC_FOLDER_PATH: './'
+        TARGET_BRANCH: 'main'
+        run: |
+          files=$(find $SRC_FOLDER_PATH -type f) # get the file list
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git fetch 
+          git checkout $TARGET_BRANCH       
+          git checkout ${GITHUB_REF##*/} -- $files
+          git add -A
+          git diff-index --quiet HEAD ||  git commit -am "deploy files"
+          git push origin $TARGET_BRANCH # push to remote branch
