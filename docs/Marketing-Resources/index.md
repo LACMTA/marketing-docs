@@ -1,13 +1,11 @@
 ---
-title: Marketing Resources Overview
+title: Marketing Resources for Projects Overview
 author: admin
 date: 2022-03-04 16:00
 tags:
   - Onboarding
   - Administrative
 ---
-
-# Marketing Resources for Projects
 
 Here you can find information needed to do tasks that normally come up when working with departments.
 
