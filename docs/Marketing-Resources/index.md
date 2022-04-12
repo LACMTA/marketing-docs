@@ -25,6 +25,7 @@ Here you can find information needed to do tasks that normally come up when work
 |Media buy process (Civilian)|[:link:](media-buy-process.md)|
 |Metro-owned outlets for campaigns|[:link:](metro-owned-outlets.md)|
 |Distribution list template|[:link:](distribution-list.md)|
+|Instructions and management of CIPS kiosk screens|[:link:](cips_kiosk.md)|
 |Facebook PO Projects|[:link:](facebook-po-projects.md)|
 |On Board Posting Schedule|[:link:](on-board-posting-schedule.md)|
 |Spanish Translation Process|[:link:](spanish-translation-process.md)|
