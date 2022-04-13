@@ -10,7 +10,7 @@ tags:
 
 Here you can find information for new hires and general administrative processes that you may not do regularly.
 
-This site is designed to orient people working with Metro's Marketing Division on [projects](../projects/index.md), [processes](../processes/index.md), and [software/services](../software/index.md).
+This site is designed to orient people working with Metro's Marketing Division on [resources](../Marketing-Resources/index.md), [research design](../Research-Design/index.md), and [support](../Support/index.md).
 
 <!-- no toc -->
 - [New Employees](#new-employees)
@@ -50,7 +50,7 @@ The following resources are useful for brand and design guidelines:
 |Software UN and PW|[:link:](software.md)|
 |Marketing Vacation Calendar|[:link:](marketing-vacation-calendar.md)|
 |Procurement process|[:link:](procurement.md)|
-|Onboarding ITS and HR forms |[:link:](onboard-its-hr.md)|
+<!-- |Onboarding ITS and HR forms |[:link:](onboard-its-hr.md)| -->
 |VDI|[:link:](vdi.md)|
 |Getting around Gateway (USG)|[:link:](gateway-faq.md)|
 |Marketing Directory|[:link:](marketing-directory.md)|
