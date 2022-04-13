@@ -4,14 +4,19 @@ draft: false
 date: 2022-03-04 12:11
 audience:
   - New Hires
-purpose: TBD
+  - Marketing
+purpose: We’ve created a new content and best practices guide for metro.net to
+  ensure it is useful and accessible for customers and helps achieve Metro’s
+  business goals. This guide will ensure that all web content and actions exist
+  within a broader communications strategy. This will better enable the
+  Marketing team to deliver success, while not overloading the website and
+  negatively impacting performance. We have developed these guidelines to ensure
+  the website is laser-focused on customer needs and aligns with our broader
+  communication strategies to ensure success for the agency.
 tags:
   - Research and Design
 ---
 **NOTE: This is a living document and will evolve as the website develops over time.**
-
-We’ve created a new content and best practices guide for metro.net to ensure it is useful and accessible for customers and helps achieve Metro’s business goals. This guide will ensure that all web content and actions exist within a broader communications strategy. This will better enable the Marketing team to deliver success, while not overloading the website and negatively impacting performance. We have developed these guidelines to ensure the website is laser-focused on customer needs and aligns with our broader communication strategies to ensure success for the agency.
-
 
 ## General: 
 
