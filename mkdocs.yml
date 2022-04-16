@@ -20,7 +20,7 @@ theme:
   favicon: assets/media/favicon.png
   logo: assets/media/favicon-reverse.png
   name: material
-  # custom_dir: overrides
+  custom_dir: overrides
   features:
       - navigation.instant
       - navigation.tabs
@@ -51,6 +51,7 @@ markdown_extensions:
     - admonition
     - footnotes
     - attr_list
+    - md_in_html
     
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js

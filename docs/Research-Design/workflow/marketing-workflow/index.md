@@ -9,8 +9,6 @@ tags:
   - Workflows
 ---
 
-# Marketing Workflow
-
 Use our resources and guides to help you as you design digital services for Metro and the people who support them.
 
 ## Contents

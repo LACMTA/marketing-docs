@@ -1,7 +1,7 @@
 ---
 title: Tools Catalog
 author:
-  ? "{ field.author }"
+  Nina Kin
 draft: true
 date: 2022-03-25 13:49
 audience:

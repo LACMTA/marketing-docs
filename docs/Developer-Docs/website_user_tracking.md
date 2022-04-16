@@ -1,6 +1,12 @@
 ---
-tags:
-  - DRAFT
+title: Website User Tracking
+author:
+  Nina Kin
+draft: true
+date: 2022-03-25 13:49
+audience:
+  - Digital
+purpose: A list of tools used for development
 ---
 
 # Website User Tracking

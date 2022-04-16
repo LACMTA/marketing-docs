@@ -1,7 +1,12 @@
 ---
 title: WordPress at Metro
+author:
+  Joe Simpson
 draft: true
-date: 2022-02-02 13:26
+date: 2022-03-25 13:49
+audience:
+  - Digital
+purpose: A list of tools used for development
 ---
 ## Project Overview
 

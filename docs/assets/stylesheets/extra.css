@@ -8,3 +8,31 @@ a.md-nav__link--active:nth-child(1){
 .md-tag{
     border-radius: 0 !important;
 }
+
+.tile--spacious .tile__image {
+    background-position: 50%;
+    margin: 0 auto 1rem;
+    height: 7rem;
+    width: 7rem;
+  }
+
+  .homebutton{
+      text-align: center;
+      padding: 100px
+  }
+
+  
+
+  .big_icon {
+	--md-icon-size: 6em !important;
+}
+
+.md-button.md-button--primary.homebutton {
+	width: 100%;
+	border-radius: 16px;
+}
+
+.md-typeset .grid.cards{
+    text-align: center;
+
+}
