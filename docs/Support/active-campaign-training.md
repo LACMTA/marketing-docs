@@ -25,16 +25,16 @@ When logged in, use the help button in the lower right of the screen for context
 ## Resources
 
 * Active Campaign help
-  * [AC help](help.activecampaign.com/hc/en-us)
-  * [AC learn](activecampaign.com/learn)
-  * [AC courses](courses.activecampaign.com)
+  * [AC help](http://help.activecampaign.com/hc/en-us)
+  * [AC learn](http://activecampaign.com/learn)
+  * [AC courses](http://courses.activecampaign.com)
 
 * knowldgebase
 * learn
 
 ## Create your first campaign
 
- [Active Campaign campaign page](Metro77073.activehosted.com/campaigns)
+ [Active Campaign campaign page](http://Metro77073.activehosted.com/campaigns)
 
 
 [Active Campaign Info](./media/active_campaign_info.pdf)
