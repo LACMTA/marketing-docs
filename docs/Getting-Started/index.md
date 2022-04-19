@@ -10,7 +10,7 @@ tags:
 
 Here you can find information for new hires and general administrative processes that you may not do regularly.
 
-This site is designed to orient people working with Metro's Marketing Division on [resources](../Marketing-Resources/index.md), [research design](../Design/index.md), and [support](../Support/index.md).
+This site is designed to orient people working with Metro's Marketing Division on [resources](../Marketing/index.md), [research design](../Design/index.md), and [support](../Support/index.md).
 
 <!-- no toc -->
 - [New Employees](#new-employees)

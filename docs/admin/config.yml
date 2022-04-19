@@ -124,12 +124,12 @@ collections: # A list of collections the CMS should be able to edit
       - { label: 'Purpose', name: 'purpose', widget: 'string', hint: 'How would this content be used? Why is it important?' }
       - { label: 'Tags', name: 'tags', widget: 'list', summary: '{{fields.name}}', field: {label: 'Name', name: 'name', widget: 'string'}}
       - { label: 'Content', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
-  - name: 'marketing-resources' # Used in routes, ie.: /admin/collections/:slug/edit
-    label: 'Marketing Resources' # Used in the UI
-    label_singular: 'Marketing Resource' # Used in the UI, ie: "New Post"
+  - name: 'marketing' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'Marketing' # Used in the UI
+    label_singular: 'Marketing resource' # Used in the UI, ie: "New Post"
     description: >
-      Marketing resources! Description goes here.
-    folder: 'docs/Marketing-Resources'
+      Marketing! Description goes here.
+    folder: 'docs/Marketing'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
     create: true # Allow users to create new documents in this collection
