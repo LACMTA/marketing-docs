@@ -67,7 +67,7 @@ Specific ways you intend to execute your values, which are based on your princip
 -   [Group Figma P&V file]
 (https://www.figma.com/file/sddlrFcR8UAb27C8q5UVvd/Digital-Principles-%26-Values?node-id=0%3A1)
 
--   [Design Justice Presentation - 10/15/2021](../../../media/Metro_Design_Justice_10_15_2021.pdf)
+-   [Design Justice Presentation - 10/15/2021](../../media/Metro_Design_Justice_10_15_2021.pdf)
 
--   [Implementing Justice Presentation - 10/15/2021](../../../media/Presentation-Implementing_Design_Justice_v2.pdf)
+-   [Implementing Justice Presentation - 10/15/2021](../../media/Presentation-Implementing_Design_Justice_v2.pdf)
 
