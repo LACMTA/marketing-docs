@@ -9,6 +9,13 @@ purpose: TBD
 tags:
   - Support
 ---
+Some active campaign resources you might want to bookmark:
+
+[https://help.activecampaign.com/hc/en-us https://www.activecampaign.com/learn ](<https://help.activecampaign.com/hc/en-us https://www.activecampaign.com/learn>)<https://courses.activecampaign.com/Building an Email Campaign>
+
+When logged in, use the help button in the lower right of the screen for context sensitive info, and a quick access to lookup answers
+
+
 
 ## Login
 
