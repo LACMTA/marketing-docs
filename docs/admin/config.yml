@@ -35,12 +35,12 @@ publish_mode: editorial_workflow
 
 
 collections: # A list of collections the CMS should be able to edit
-  - name: 'research-design' # Used in routes, ie.: /admin/collections/:slug/edit
-    label: 'Research Design' # Used in the UI
-    label_singular: 'Research Design' # Used in the UI, ie: "New Post"
+  - name: 'design' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'Design' # Used in the UI
+    label_singular: 'Design' # Used in the UI, ie: "New Post"
     description: >
-      Research and Design as it relates to the customer experience.! To help inform updates and new projects.
-    folder: 'docs/Research-Design'
+      Design as it relates to the customer experience.! To help inform updates and new projects.
+    folder: 'docs/Design'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
     create: true # Allow users to create new documents in this collection
