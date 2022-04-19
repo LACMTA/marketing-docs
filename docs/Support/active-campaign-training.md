@@ -19,22 +19,22 @@ When logged in, use the help button in the lower right of the screen for context
 
 ## Login
 
-* [Active Campaign login page](Metro77073.activehosted.com)
+* [Active Campaign login page](https://Metro77073.activehosted.com)
   * If you need a login contact [David Abrahamian](mailto:abrahamiand@metro.net)
 
 ## Resources
 
 * Active Campaign help
-  * [AC help](http://help.activecampaign.com/hc/en-us)
-  * [AC learn](http://activecampaign.com/learn)
-  * [AC courses](http://courses.activecampaign.com)
+  * [AC help](https://help.activecampaign.com/hc/en-us)
+  * [AC learn](https://activecampaign.com/learn)
+  * [AC courses](https://courses.activecampaign.com)
 
 * knowldgebase
 * learn
 
 ## Create your first campaign
 
- [Active Campaign campaign page](http://Metro77073.activehosted.com/campaigns)
+ [Active Campaign campaign page](https://Metro77073.activehosted.com/campaigns)
 
 
 [Active Campaign Info](./media/active_campaign_info.pdf)

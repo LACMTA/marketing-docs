@@ -49,7 +49,7 @@ jobs:
       - run: pip install mkdocs-autorefs
       - run: pip install mkdocs-table-reader-plugin   
       - run: pip install mkdocs-awesome-pages-plugin
-      - run: pip install jinja2==3.0.0
+      # - run: pip install jinja2==3.0.0
       # - run: pip install mkdocs-material
       - run: mkdocs gh-deploy --force
 env:
