@@ -1,10 +1,11 @@
 ---
 title: Line Letters Guidelines
-draft: false
+draft: true
 date: 2022-03-04 12:11
 audience:
   - New Hires
 purpose: TBD
+hidden: true
 tags:
   - Research and Design
 ---
