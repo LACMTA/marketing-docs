@@ -11,8 +11,6 @@ purpose: Support
 
 Here you can find training on the tools we use. 
 
-## Contents
-
 ||link|
 |---|----|
 |Metro.net Web Training|[:link:](metro-web-training.md)|

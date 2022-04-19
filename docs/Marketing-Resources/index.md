@@ -15,10 +15,7 @@ Here you can find information needed to do tasks that normally come up when work
 |---|----|
 |TAP card information|[:link:](./tap/index.md)|
 |Project Resources|[:link:](./Project-Resources/index.md)|
-<!-- |Sign shop process|[:link:](sign-shop.md)| -->
 |Ordering promotional items|[:link:](promo-items.md)|
-<!-- |Marketing Workflow|[:link:](marketing-workflow.md)| -->
-<!-- |Digital Services Workflow|[:link:](digital-services-workflow.md)| -->
 |Facebook Instagram Ad request|[:link:](facebook-ig-ad-request.md)|
 |Media buy process (Civilian)|[:link:](media-buy-process.md)|
 |Metro-owned outlets for campaigns|[:link:](metro-owned-outlets.md)|
@@ -30,3 +27,8 @@ Here you can find information needed to do tasks that normally come up when work
 |Video Bench Request|[:link:](video-bench-request.md)|
 |Writing Style Guide for English and Spanish|[:link:](writing-style-guide.md)|
 |Spanish Glossary|[:link:](spanish-glossary.md)|
+
+
+<!-- |Sign shop process|[:link:](sign-shop.md)| -->
+<!-- |Marketing Workflow|[:link:](marketing-workflow.md)| -->
+<!-- |Digital Services Workflow|[:link:](digital-services-workflow.md)| -->
