@@ -7,7 +7,7 @@ audience:
   - New Hires
 purpose: TBD
 tags:
-  - Support
+  - Learning
 ---
 Some active campaign resources you might want to bookmark:
 

@@ -82,11 +82,11 @@ collections: # A list of collections the CMS should be able to edit
     
     
   - name: 'support' # Used in routes, ie.: /admin/collections/:slug/edit
-    label: 'Support' # Used in the UI
-    label_singular: 'Support' # Used in the UI, ie: "New Post"
+    label: 'Learning' # Used in the UI
+    label_singular: 'Learning' # Used in the UI, ie: "New Post"
     description: >
       We support you! :)
-    folder: 'docs/Support'
+    folder: 'docs/Learning'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
     create: true # Allow users to create new documents in this collection
@@ -256,12 +256,12 @@ collections: # A list of collections the CMS should be able to edit
       - { label: 'Purpose', name: 'purpose', widget: 'string', hint: 'How would this content be used? Why is it important?' }
       - { label: 'Tags', name: 'tags', widget: 'list', summary: '{{fields.name}}', field: {label: 'Name', name: 'name', widget: 'string'}}
       - { label: 'Content', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
-  - name: 'production-toolkit'
-    label: 'Production Toolkit'
-    label_singular: 'Toolkit item'
+  - name: 'production'
+    label: 'Production'
+    label_singular: 'Production item'
     description: >
-      Documentation relevant for production toolkit to for signage and print projects.
-    folder: 'docs/Production-Toolkit'
+      Documentation relevant for production to for signage and print projects.
+    folder: 'docs/Production'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
     create: true # Allow users to create new documents in this collection

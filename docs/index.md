@@ -40,11 +40,11 @@ input[type="text"] {
 <div class="grid cards" markdown>
 
 - [:material-power:{.big_icon}<br>Getting Started](./Getting-Started/){ .md-button .md-button--primary .homebutton}
-- [:material-bookshelf:{.big_icon}<br>Marketing](./Marketing/){ .md-button .md-button--primary .homebutton}
+- [:material-television-guide:{.big_icon}<br>Marketing](./Marketing/){ .md-button .md-button--primary .homebutton}
 - [ :fontawesome-solid-file-signature:{.big_icon} <br>Design](./Design/){ .md-button .md-button--primary .homebutton}
 - [ :octicons-code-square-16:{.big_icon} <br> Developer Docs](./Developer-Docs/){ .md-button .md-button--primary .homebutton}
-- [ :fontawesome-solid-toolbox:{.big_icon} <br> Production Toolkit](./Production-Toolkit/){ .md-button .md-button--primary .homebutton}
+- [:fontawesome-solid-pen-ruler:{.big_icon} <br> Production](./Production/){ .md-button .md-button--primary .homebutton}
 
-- [ :material-help-box:{.big_icon} <br> Support](./Support/){ .md-button .md-button--primary .homebutton}
+- [ :material-bookshelf:{.big_icon} <br> Learning](./Learning/){ .md-button .md-button--primary .homebutton}
 
 </div>

@@ -1,5 +1,5 @@
 ---
-title: Research and Design
+title: Design
 draft: false
 date: 2022-03-04 12:11
 audience:

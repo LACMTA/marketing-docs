@@ -7,7 +7,7 @@ audience:
   - New Hires
 purpose: TBD
 tags:
-  - Support
+  - Learning
   - First-Last Mile
   - How-to
 ---
