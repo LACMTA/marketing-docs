@@ -10,3 +10,7 @@ tags:
   - Onboarding
   - Administrative
 ---
+
+## MarComs Telephone Directory
+
+[https://docs.google.com/spreadsheets/d/1alnImD7cZkld460CFR5W8FvVkgjEbykUDFt5guEmxn8/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1alnImD7cZkld460CFR5W8FvVkgjEbykUDFt5guEmxn8/edit?usp=sharing)
