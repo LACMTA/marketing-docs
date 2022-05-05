@@ -1,5 +1,5 @@
 ---
-title: Design
+title: "Design (attn: Albert - this is nested/duplicative info - probably delete?)"
 draft: false
 date: 2022-03-04 12:11
 audience:
