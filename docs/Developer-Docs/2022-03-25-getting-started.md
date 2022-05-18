@@ -1,7 +1,6 @@
 ---
 title: Getting Started
-author:
-  ? "{ field.author }"
+author: Nina Kin
 draft: true
 date: 2022-03-25 13:47
 audience:

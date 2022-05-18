@@ -1,7 +1,7 @@
 ---
 title: Requesting Access
 author:
-  ? "{ field.author }"
+  Nina Kin
 draft: true
 date: 2022-03-25 13:56
 audience:
