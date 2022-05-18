@@ -6,7 +6,7 @@ audience:
   - New Hires
 purpose: TBD
 tags:
-  - Research and Design
+  - Design
 ---
 Design Studio maintains a [Wiki in Dropbox Paper](https://paper.dropbox.com/folder/show/Design-Studio_DesignOps-Wiki-e.1gg8YzoPEhbTkrhvQwJ2zzo3bWlV8g1ZENwZbD8GzaGEU5CKkeJZ) with information for in-house designers and production artists including specs, workflows, processes, etc.
 

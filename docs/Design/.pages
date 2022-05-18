@@ -1,5 +1,3 @@
 nav:
     - index.md
-    - Digital Services: ./Design/Digital-Services
-    - Workflow:  ./Design/workflow/
     - ...

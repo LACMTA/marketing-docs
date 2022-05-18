@@ -1,12 +1,12 @@
 ---
-title: "Digital Asset Management "
-draft: false
+title: "Digital Asset Management"
+draft: true
 date: 2022-03-04 12:11
 audience:
   - New Hires
 purpose: TBD
 tags:
-  - Research and Design
+  - Design
 ---
 We maintain a database with Metro photography and video assets for creative production, accessible through Portfolio.
 

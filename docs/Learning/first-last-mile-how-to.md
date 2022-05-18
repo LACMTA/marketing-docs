@@ -11,7 +11,6 @@ tags:
   - First-Last Mile
   - How-to
 ---
-# First-Last Mile Map Styling
 
 This project is used to help provide input for first last mile options.
 

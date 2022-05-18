@@ -7,5 +7,5 @@ audience:
 purpose: TBD
 hidden: true
 tags:
-  - Research and Design
+  - Design
 ---

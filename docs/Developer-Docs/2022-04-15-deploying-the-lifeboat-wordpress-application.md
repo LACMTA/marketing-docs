@@ -1,7 +1,7 @@
 ---
 title: Deploying the Lifeboat WordPress Application
 author:
-  ? "{ field.author }"
+  Alex Chaparro
 draft: true
 date: 2022-04-14 16:21
 audience:

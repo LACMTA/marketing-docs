@@ -10,13 +10,3 @@ tags:
 ---
 
 Use our resources and guides to help you as you design digital services for Metro and the people who support them.
-
-## Contents
-
-|Page|Link|
-|---|----|
-|Production Specs|[:link:](production-specs.md)|
-|Signage Environmental|[:link:](signage-environmental.md)|
-|Brand.metro.net|[:link:](brand-metro.md)|
-|Workflow|[:link:](workflow/index.md)|
-|Portfolio Keywords|[:link:](portfolio-keywords.md)|

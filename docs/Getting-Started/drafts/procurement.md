@@ -1,6 +1,6 @@
 ---
 title: Procurement process 
-draft: false
+draft: true
 author: admin
 date: 2022-03-04 12:11
 audience:
